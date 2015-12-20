@@ -19,4 +19,7 @@ author:
 version: 2.0.0
 
 github:
-  repo: https://github.com/poole/lanyon
+  repo: https://karepker.github.com
+
+gems:
+  - jekyll-feed

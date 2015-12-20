@@ -30,6 +30,8 @@
     <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
   </nav>
 
+  <a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}"
+      href="/feed.xml">RSS feed</a>
   <div class="sidebar-item">
     <p>
       &copy; {{ site.time | date: '%Y' }}. All rights reserved.
