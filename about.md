@@ -3,28 +3,46 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## What is this?
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+tl;dr This is where I'll post some of my writing, mostly based around criticism
+and critical thinking.
 
-There are currently two themes built on Poole:
+I started keeping a journal regularly for non-school purposes my senior year in
+high school. I did this for a variety of reasons: I thought it would improve my
+writing, and I had read that it was ["good for you"][lh_journaling_benefits].
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+This is not my journal.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+... but at that point I set a precedent for writing regularly. The summer after
+my senior year in high school I started writing about movies I had seen, because
+I realized I had a terrible memory for movies, and thought it would be useful to
+to be to read what I had once thought about them after I inevitably forgot that
+I watched them.
 
-## Setup
+This was my introduction to criticism. I initially just wrote a few sentences
+about the movies. My early thoughts were things like "It was good movie and I
+liked it." Over time, my critiques developed, and I began to expand beyond film
+into writing about books. I also became more interested in critical thinking,
+and evaluating claims logically and rationally.
 
-Some fun facts about the setup of this project include:
+At this point (end of 2015), I feel like I've developed my writing enough that
+I'd like to start circulating it more widely, so I've taken the full plunge and
+decided to post it completely in public on the Internet. Make no mistake, I am
+not qualified be any sort of critic, but I believe my views can be at least
+unique, and I hope one day, insightful.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+## About the author
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+I grew up in a suburb of Boston, MA, went to school at the University of
+Michigan, and now I work in the bay area as a software
+["engineer"][programmers_arent_engineers].
 
-Thanks for reading!
+## About this blog
+
+It's built on [Jekyll][jekyll], it's hosted with [Github pages][github_pages].
+
+[lh_journaling_benefits]: http://lifehacker.com/why-you-should-keep-a-journal-and-how-to-start-yours-1547057185
+[jekyll]: https://jekyllrb.com/
+[github_pages]: https://pages.github.com/
+[programmers_arent_engineers]: http://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/
