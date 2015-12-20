@@ -320,6 +320,19 @@ a.sidebar-nav-item:focus {
   margin-top: 0;
 }
 
+/* Page subtitle */
+.page-subtitle,
+.post-subtitle,
+.post-subtitle a {
+  margin-left: 0.5rem;
+  color: #919191;
+  font-size: 1.5rem;
+}
+.page-subtitle,
+.post-subtitle {
+  margin-top: 0;
+}
+
 /* Meta data line below post title */
 .post-date {
   display: block;

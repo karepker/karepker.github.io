@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Pentatonix
+subtitle: Pentatonix goes pop
+tags:
+  - criticism
+  - music
 ---
-
-# Pentatonix goes pop
 
 _Pentatonix_ surprises me. For years, [Pentatonix has talked about their goal to
 release an all original album][ptx_des_moines_register], a goal they finally
