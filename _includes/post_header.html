@@ -1,0 +1,9 @@
+{% if include.page.subtitle != null %}
+  <h1 class="post-title">
+	<a href="{{include.page.url}}">{{ include.page.title }}</a>
+	<span class="post-subtitle">{{ include.page.subtitle }}</span>
+  </h1>
+{% else %}
+  <h1 class="post-title">{{ include.page.title }}</h1>
+{% endif %}
+<span class="post-date">({{ include.page.date | date: '%Y-%m-%d' }})</span>
