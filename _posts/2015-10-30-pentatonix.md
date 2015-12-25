@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pentatonix
+title: _Pentatonix_ review
 subtitle: Pentatonix goes pop
 tags:
   - criticism
