@@ -2,6 +2,7 @@
 layout: post
 title: _Pentatonix_ review
 subtitle: Pentatonix goes pop
+cover: /public/pentatonix_pentatonix_cover.jpg
 tags:
   - criticism
   - music
