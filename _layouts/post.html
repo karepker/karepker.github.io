@@ -15,6 +15,9 @@ layout: default
   </div>
   <div class="post-content pad-sides">
     {{content}}
+	<hr/>
+	[{{ page.date | date: '%Y-%m-%d' }}] by
+	{% include post_author.html post=post %}
   </div>
 </div>
 
