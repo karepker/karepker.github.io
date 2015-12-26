@@ -256,21 +256,6 @@ tbody tr:nth-child(odd) th {
 
 
 /*
- * Container
- *
- * Center the page content.
- */
-
-.container {
-  max-width: 38rem;
-  padding-left:  1rem;
-  padding-right: 1rem;
-  margin-left:  auto;
-  margin-right: auto;
-}
-
-
-/*
  * Masthead
  *
  * Super small header above the content for site name and short description.
@@ -310,11 +295,6 @@ tbody tr:nth-child(odd) th {
 }
 
 /* Blog post or page title */
-.page-title,
-.post-title,
-.post-title a {
-  color: #303030;
-}
 .page-title,
 .post-title {
   margin-top: 0;

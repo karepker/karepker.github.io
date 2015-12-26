@@ -67,21 +67,22 @@ h1, h2, h3, h4, h5, h6 {
 
 
 /*
- * Container
+ * Pad sides
  *
- * Center the page content.
+ * Set a medium-dependent max width and center the content.
  */
 
-.container {
+.pad-sides {
   max-width: 28rem;
+  margin: 0 auto;
 }
-@media (min-width: 38rem) {
-  .container {
+@media (min-width: 38em) {
+  .pad-sides {
     max-width: 32rem;
   }
 }
-@media (min-width: 56rem) {
-  .container {
+@media (min-width: 56em) {
+  .pad-sides {
     max-width: 38rem;
   }
 }
@@ -310,14 +311,57 @@ a.sidebar-nav-item:focus {
 }
 
 /* Blog post or page title */
+
+/* Page/Post cover */
+.post-header {
+  width: 100%;
+}
+.post-header.has-cover {
+  background-size: cover;
+  background-position: 50% 50%;
+  position: relative;
+  height: 500px;
+}
+
+.post-header h1,
+.post-header h1 a,
+.post-header h2,
+.post-header h2 a {
+  color: #313131;
+}
+
+.post-header.has-cover h1,
+.post-header.has-cover h1 a,
+.post-header.has-cover h2,
+.post-header.has-cover h2 a{
+  color: #e0e0e0;
+}
+
+/* Remove margins on `p`s produced by markdownify in header. */
+.post-header p {
+  margin: 0;
+}
+
+.post-title-text {
+  text-align: center;
+  bottom: 2rem;
+  left: 0;
+  right: 0;
+}
+
+.post-header.has-cover .post-title-text {
+  position: absolute;
+}
+
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 3rem;
 }
 .page-title,
 .post-title {
-  margin-top: 0;
+  margin: 0 auto;
 }
 
 /* Page subtitle */
@@ -325,20 +369,26 @@ a.sidebar-nav-item:focus {
 .post-subtitle,
 .post-subtitle a {
   margin-left: 0.5rem;
-  color: #919191;
   font-size: 1.5rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .page-subtitle,
 .post-subtitle {
   margin-top: 0;
 }
 
+.post-content {
+  padding-top: 2rem;
+}
+
+/* Post content */
+
 /* Meta data line below post title */
 .post-date {
   display: block;
-  margin-top: -.5rem;
+  margin-top: 1rem;
   margin-bottom: 1rem;
-  color: #9a9a9a;
+  color: #808080;
 }
 
 /* Related posts */

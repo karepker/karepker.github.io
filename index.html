@@ -2,10 +2,14 @@
 layout: default
 ---
 
-<div class="posts">
+<div class="posts pad-sides">
   {% for post in site.posts %}
-	{% include post_header.html page=post %}
-	{{post.excerpt}}
+    <div class="post-header">
+	  {% include post_header.html page=post %}
+	</div>
+	<div class="post-content">
+	  {{post.excerpt}}
+    </div>
 	<a href="{{post.url}}">Continue reading</a>
   {% endfor %}
 </div>
