@@ -30,13 +30,13 @@ decided to post it completely in public on the Internet. Make no mistake: I am
 not qualified be a professional critic, but I believe my views are sometimes
 unique and—I hope one day—will become insightful.
 
-## About me
+## Who are you?
 
 I grew up in Massachusetts, went to school at the University of Michigan, and
 now I work in the bay area as a software
 ["engineer"][programmers_arent_engineers].
 
-## About this blog
+## How was this website built?
 
 It's built on [Jekyll][jekyll] using a modified version of [@mdo][mdo_twitter]'s
 [Lanyon theme][lanyon], and it's hosted with [Github pages][github_pages].
