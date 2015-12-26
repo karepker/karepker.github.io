@@ -1,0 +1,21 @@
+{% comment %}
+Generates a plaintext title (no HTML) for a single page. If the page has no
+title, generates nothing.
+
+This is intended to be used in places where HTML elements are not welcome, e.g.
+the title in the head block or the title block for the feed.
+
+Appending the colon to the end of page.title when there is a subtitle is a hack
+that exists because liquid generates so much whitespace in output HTML. Without
+this, the string becomes `title` : `subtitle`.
+{% endcomment %}
+{% if include.page.title %}
+  {% if include.page.subtitle %}
+	{% assign page_title = include.page.title | append: ": " | markdownify | strip_html %}
+	{% assign page_subtitle = include.page.subtitle | markdownify | strip_html %}
+	{{ page_title }}{{ page_subtitle }}
+  {% else %}
+	{% assign page_title = include.page.title |  markdownify | strip_html %}
+	{{ page_title }}
+  {% endif %}
+{% endif %}

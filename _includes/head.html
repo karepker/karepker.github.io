@@ -8,11 +8,8 @@
 
   <title>
     {% if page.title %}
-		{% if page.subtitle %}
-			{{ page.title }}: {{ page.subtitle }} &middot; {{ site.title }}
-		{% else %}
-			{{ page.title }} &middot; {{ site.title }}
-		{% endif %}
+      {% include plaintext_page_title.html page=page %}
+	  &middot; {{ site.title }}
     {% else %}
       {{ site.title }} &middot; {{ site.tagline }}
     {% endif %}
