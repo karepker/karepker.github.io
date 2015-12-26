@@ -1,6 +1,8 @@
 <div class="post-title-text">
   <h1 class="post-title">
-    <a href="{{include.page.url}}">{{ include.page.title | markdownify }}</a>
+	<a href="{{ site.baseurl }}{{ include.page.url }}">
+		{{ include.page.title | markdownify }}
+	</a>
   </h1>
   {% if include.page.subtitle != null %}
     <h2 class="post-subtitle">{{ include.page.subtitle | markdownify }}</h2>
