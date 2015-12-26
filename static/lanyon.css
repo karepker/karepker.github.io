@@ -709,7 +709,7 @@ a.pagination-item:hover {
 .theme-base-08 #sidebar-checkbox:checked ~ .sidebar-toggle {
   background-color: #ac4142;
 }
-.theme-base-08 .container a,
+.theme-base-08 .pad-sides a,
 .theme-base-08 .sidebar-toggle,
 .theme-base-08 .related-posts li a:hover {
   color: #ac4142;
@@ -721,7 +721,7 @@ a.pagination-item:hover {
 .theme-base-09 #sidebar-checkbox:checked ~ .sidebar-toggle {
   background-color: #d28445;
 }
-.theme-base-09 .container a,
+.theme-base-09 .pad-sides a,
 .theme-base-09 .sidebar-toggle,
 .theme-base-09 .related-posts li a:hover {
   color: #d28445;
@@ -733,7 +733,7 @@ a.pagination-item:hover {
 .theme-base-0a #sidebar-checkbox:checked ~ .sidebar-toggle {
   background-color: #f4bf75;
 }
-.theme-base-0a .container a,
+.theme-base-0a .pad-sides a,
 .theme-base-0a .sidebar-toggle,
 .theme-base-0a .related-posts li a:hover {
   color: #f4bf75;
@@ -745,7 +745,7 @@ a.pagination-item:hover {
 .theme-base-0b #sidebar-checkbox:checked ~ .sidebar-toggle {
   background-color: #90a959;
 }
-.theme-base-0b .container a,
+.theme-base-0b .pad-sides a,
 .theme-base-0b .sidebar-toggle,
 .theme-base-0b .related-posts li a:hover {
   color: #90a959;
@@ -757,7 +757,7 @@ a.pagination-item:hover {
 .theme-base-0c #sidebar-checkbox:checked ~ .sidebar-toggle {
   background-color: #75b5aa;
 }
-.theme-base-0c .container a,
+.theme-base-0c .pad-sides a,
 .theme-base-0c .sidebar-toggle,
 .theme-base-0c .related-posts li a:hover {
   color: #75b5aa;
@@ -769,7 +769,7 @@ a.pagination-item:hover {
 .theme-base-0d #sidebar-checkbox:checked ~ .sidebar-toggle {
   background-color: #6a9fb5;
 }
-.theme-base-0d .container a,
+.theme-base-0d .pad-sides a,
 .theme-base-0d .sidebar-toggle,
 .theme-base-0d .related-posts li a:hover {
   color: #6a9fb5;
@@ -781,7 +781,7 @@ a.pagination-item:hover {
 .theme-base-0e #sidebar-checkbox:checked ~ .sidebar-toggle {
   background-color: #aa759f;
 }
-.theme-base-0e .container a,
+.theme-base-0e .pad-sides a,
 .theme-base-0e .sidebar-toggle,
 .theme-base-0e .related-posts li a:hover {
   color: #aa759f;
@@ -793,7 +793,7 @@ a.pagination-item:hover {
 .theme-base-0f #sidebar-checkbox:checked ~ .sidebar-toggle {
   background-color: #8f5536;
 }
-.theme-base-0f .container a,
+.theme-base-0f .pad-sides a,
 .theme-base-0f .sidebar-toggle,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
