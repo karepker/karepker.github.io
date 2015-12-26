@@ -16,21 +16,19 @@ This is not my journal.
 
 ... but at that point I set a precedent for writing regularly. The summer after
 my senior year in high school I started writing about movies I had seen, because
-I realized I had a terrible memory for movies, and thought it would be useful to
-to be to read what I had once thought about them after I inevitably forgot that
-I watched them.
+I always forgot them and thought writing my thoughts would be useful.
 
-This was my introduction to criticism. I initially just wrote a few sentences
-about the movies. My early thoughts were things like "It was good movie and I
-liked it." Over time, my critiques developed, and I began to expand beyond film
-into writing about books. I also became more interested in critical thinking,
-and evaluating claims logically and rationally.
+This was my introduction to criticism. Initially, my movie "reviews" were just a
+few sentences like "It was good movie and I liked it." Over time, my critiques
+developed, and I began to expand beyond film into writing about books.
+Separately, during my sophomore year in college, I became more interested in
+critical thinking, and evaluating claims logically and rationally.
 
 At this point (end of 2015), I feel like I've developed my writing enough that
 I'd like to start circulating it more widely, so I've taken the full plunge and
-decided to post it completely in public on the Internet. Make no mistake, I am
-not qualified be any sort of critic, but I believe my views can be at least
-unique, and I hope one day, insightful.
+decided to post it completely in public on the Internet. Make no mistake: I am
+not qualified be a professional critic, but I believe my views are sometimes
+unique and—I hope one day—will become insightful.
 
 ## About me
 
@@ -40,9 +38,12 @@ now I work in the bay area as a software
 
 ## About this blog
 
-It's built on [Jekyll][jekyll], it's hosted with [Github pages][github_pages].
+It's built on [Jekyll][jekyll] using a modified version of [@mdo][mdo_twitter]'s
+[Lanyon theme][lanyon], and it's hosted with [Github pages][github_pages].
 
 [lh_journaling_benefits]: http://lifehacker.com/why-you-should-keep-a-journal-and-how-to-start-yours-1547057185
 [jekyll]: https://jekyllrb.com/
+[mdo_twitter]: https://twitter.com/mdo
+[lanyon]: https://github.com/poole/lanyon
 [github_pages]: https://pages.github.com/
 [programmers_arent_engineers]: http://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/
