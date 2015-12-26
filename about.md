@@ -32,10 +32,10 @@ decided to post it completely in public on the Internet. Make no mistake, I am
 not qualified be any sort of critic, but I believe my views can be at least
 unique, and I hope one day, insightful.
 
-## About the author
+## About me
 
-I grew up in a suburb of Boston, MA, went to school at the University of
-Michigan, and now I work in the bay area as a software
+I grew up in Massachusetts, went to school at the University of Michigan, and
+now I work in the bay area as a software
 ["engineer"][programmers_arent_engineers].
 
 ## About this blog
