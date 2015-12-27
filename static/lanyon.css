@@ -515,14 +515,17 @@ a.sidebar-nav-item:focus {
 }
 
 /* Page/Post header with and without cover images */
-.post-header {
+.post-header,
+.page-header {
   width: 100%;
+  margin-bottom: 1rem;
 }
 .post-header.has-cover {
   background-size: cover;
   background-position: 50% 50%;
   position: relative;
   height: 500px;
+  margin-bottom: 2rem;
 }
 
 .post-header h1,
@@ -578,11 +581,6 @@ a.sidebar-nav-item:focus {
 .page-subtitle,
 .post-subtitle {
   margin-top: 0;
-}
-
-/* Post content */
-.post-content {
-  padding-top: 2rem;
 }
 
 /* Meta data line below post title */
