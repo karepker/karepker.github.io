@@ -42,12 +42,13 @@
   </nav>
 
   {% if page.url == home_url %}
-    <a class="sidebar-nav-item active" href="{{ site.baseurl }}/feed.xml">
-		Feed
-    </a>
+    <div class="sidebar-nav-item active feed">
   {% else %}
-    <a class="sidebar-nav-item" href="{{ site.baseurl }}/feed.xml">Feed</a>
+    <div class="sidebar-nav-item feed">
   {% endif %}
+      <img src="{{ site.baseurl }}/static/feed-icon.png"/>
+      <a href="{{ site.baseurl }}/feed.xml">Feed</a>
+    </div>
   <div class="sidebar-item">
     <p>
       &copy; {{ site.time | date: '%Y' }}. All rights reserved.

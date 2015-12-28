@@ -202,11 +202,13 @@ blockquote p:last-child {
   }
 }
 
+/* Images
+ * TODO: Make this more restrictive?
 img {
   display: block;
   margin: 0 0 1rem;
   border-radius: 5px;
-}
+} */
 
 /* Tables */
 table {
@@ -225,6 +227,15 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
+/* Styles the feed item in the sidebar. Needed for feed icon. */
+.feed {
+  display: inline-block;
+}
+.feed img {
+  padding-right: 0.25em;
+  height: 1.0em;
+  vertical-align: text-bottom;
+}
 
 /*
  * Custom type
