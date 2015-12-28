@@ -8,8 +8,8 @@ title: About
 tl;dr This is where I'll post some of my writing, mostly based around criticism
 and critical thinking.
 
-I started keeping a journal regularly for non-school purposes my senior year in
-high school. I did this for a variety of reasons: I thought it would improve my
+I started keeping a regular, personal journal during my senior year in high
+school. I did this for a variety of reasons: I thought it would improve my
 writing, and I had read that it was ["good for you"][lh_journaling_benefits].
 
 This is not my journal.
