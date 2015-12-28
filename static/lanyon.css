@@ -285,6 +285,7 @@ tbody tr:nth-child(odd) th {
 
 .pad-sides {
   max-width: 28rem;
+  padding: 0 1rem;
   margin: 0 auto;
 }
 @media (min-width: 38em) {
