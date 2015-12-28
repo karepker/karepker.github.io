@@ -46,7 +46,6 @@
 
 html,
 body {
-  overflow-x: hidden;  /* Prevent scroll on narrow devices */
   margin: 0;
   padding: 0;
 }
