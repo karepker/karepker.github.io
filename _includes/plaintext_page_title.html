@@ -15,7 +15,7 @@ this, the string becomes `title` : `subtitle`.
 	{% assign page_subtitle = include.page.subtitle | markdownify | strip_html %}
 	{{ page_title }}{{ page_subtitle }}
   {% else %}
-	{% assign page_title = include.page.title |  markdownify | strip_html %}
+	{% assign page_title = include.page.title | markdownify | strip_html %}
 	{{ page_title }}
   {% endif %}
 {% endif %}
