@@ -9,57 +9,51 @@ tags:
 ---
 
 _Pentatonix_ surprises me. For years, [Pentatonix has talked about their goal to
-release an all original album][ptx_des_moines_register], a goal they finally
-realized with the release of _Pentatonix_. Pentatonix claims that this was the
-right time to release an all-original album, they have ["so much to say as an
-artist"][ptx_yahoo_interview] and it was time to place their covers in the
-background.
+release an all original album][ptx_des_moines_register]: a goal they finally
+realized with the release of _Pentatonix_. Pentatonix
+[claimed][ptx_yahoo_interview] that 2015 was the right time to release an
+all-original album, place their covers in the background, and develop what they
+have to say as an artist.
 
-Pentatonix has recorded original music before, a few songs tucked away on most
-of their albums. Given this precedent, I had some idea of what to expect from
-_Pentatonix_. I was astonished, upon first hearing the album, though, to find
-how thoroughly Pentatonix's goal of becoming a famous pop group had influenced
-their sound.
+I'm not too concerned with what Pentatonix has to say, but rather the manner in
+which they say it. _Pentatonix_ is a pop album. Not a pop-influenced album, not
+a contemporary a cappella album in a pop style. A pop album. While some reviews,
+including those from the [New York Times][nytimes_review] and [Rolling
+Stone][rolling_stone_review] have hinted at this aspect of _Pentatonix_, I'd
+like to take some time to really argue and explore this in depth.
 
-_Pentatonix_ is a pop album. Not a pop-influenced album, not a contemporary a
-cappella album in a pop style. A pop album. While some reviews ([New York
-Times][nytimes_review], [Rolling Stone][rolling_stone_review]) have hinted at
-this aspect of _Pentatonix_, I'd like to take some time to really argue and
-explore this in depth. I plan to do this from a critical reference point, but I
-want to make it clear that I don't intend this to be a traditional review. I'm
-not writing this so I can explicitly give my opinions on _Pentatonix_. I'm not
-going to evaluate song quality or lyrics, nor will I go through the motions of a
-professional review. That doesn't mean I don't have opinions about the album; I
-do, and you'll likely have a good idea what they are by the time I'm finished,
-but my goal with this "review" is mostly to provide a more informed reference
-point from which to evaluate _Pentatonix_.
+I'm not going to define pop theoretically, but I consider pop essentially to be
+some "average" of the music and production techniques used in top 40 music in
+the last five years. I don't want to give a theoretical definition of pop
+because I think trying to coerce _Pentatonix_ into that definition won't be very
+successful or readable. My music theory knowledge is limited; my music
+production knowledge is limited, but [I have listened to a lot of
+Pentatonix][my_last_fm_pentatonix], and I've listened to enough pop to notice
+_Pentatonix_'s similarities to it. My argument that _Pentatonix_ is a pop album,
+then, will be more bottom-up: I'll compare _Pentatonix_ to the Pentatonix's
+previous work as well as pop songs from other artists and explain the
+differences and similarities.
 
 ## Who?
 
 For those who are unfamiliar with the group, some brief history before we start:
 
-Pentatonix is a five person a cappella group composed of members Scott Hoying
-(baritone), Mitch Grassi (tenor), Kirstie Maldonado (alto), Avi Kaplan (bass),
-and Kevin Olusola (vocal percussion). They [won Season 3 of NBC's _The
-Sing-Off_][sing_off_s3] shortly after assembling themselves in 2011. Over the
-past four years, they've developed a loyal fanbase [through judicious use of
-social media][social_media_powerhouse], especially Youtube, and in 2014 [were
-signed by RCA][ptx_rca_signed].
+For those who are unfamiliar with the group, Pentatonix is a five person a
+cappella group composed of members Scott Hoying (baritone), Mitch Grassi
+(tenor), Kirstie Maldonado (alto), Avi Kaplan (bass), and Kevin Olusola (vocal
+percussion). They [won Season 3 of NBC's _The Sing Off_][sing_off_s3] shortly
+after assembling themselves in 2011. Over the past four years, they've developed
+a loyal fanbase [through judicious use of social
+media][social_media_powerhouse], especially Youtube, released five albums, and
+[signed with RCA][ptx_rca_signed].
 
 ## "Pop?"
-
-It's hard to define genre; it expands and evolves as artists discover new sounds
-and combine old sounds in new ways. For that reason, I don't think arguing the
-definition of "pop" from a theoretical standpoint and trying to coerce
-_Pentatonix_ into that definition will be particularly successful. Instead, I'll
-make a more bottom-up argument by comparing _Pentatonix_ to the Pentatonix's
-previous work as well as pop songs from other artists and explaining the
-differences and similarities.
 
 ### Multitracking
 
 Perhaps the most noticeable change in _Pentatonix_ when compared to their other
-albums is the addition of quite a bit of multitracking. A few examples:
+albums is the addition of quite a bit of multitracking: recording one person
+over themselves. A few examples:
 
 1. Scott's harmonization with himself in the [second verse of "New Year's
    Day"][ptx_new_years_day_scott_self_harmonization] and the [beginning of "If I
@@ -69,70 +63,72 @@ albums is the addition of quite a bit of multitracking. A few examples:
 1. Miscellaneous background "ahhs" above the three-part solo harmony in the
    ["Sing" chorus][ptx_sing_ahhs].
 
+
 Multitracking can be used to good effect. [Home Free][home_free_youtube], season
 4 winners of _The Sing-Off_ and also a five member a cappella group, uses
 multitracking often in their albums, most noticeably when Tim Foust, their bass,
-has a solo (["I've Seen"][home_free_ive_seen], ["Champagne Taste on a Beer
-Budget"][home_free_champagne_taste], ["Friends in Low
-Places"][home_free_friends_in_low_places]). Home Free uses multitracking to in
-the studio to make up for a lack of voices, but Pentatonix uses it to add pop
-flourishes. Ad libbing over a final chorus brings to mind songs by modern pop
-icons Kelly Clarkson (["Heartbeat Song"][heartbeat_song_ad_lib]) or Rihanna
-(["You Da One"][you_da_one_ad_lib]). Self-harmonization brings similar
-associations to mind (["Heartbeat Song" ...
-again][heartbeat_song_self_harmonization], Maroon 5 -
+has a solo (["I've Seen"][home_free_ive_seen_tim_multitrack], ["Champagne Taste
+on a Beer Budget"][home_free_champagne_taste_tim_multitrack], ["Friends in Low
+Places"][home_free_friends_in_low_places_tim_multitrack]). But while Home Free
+uses multitracking to in the studio to make up for a lack of voices,  Pentatonix
+uses it to add pop flourishes. Ad libbing over a final chorus brings to mind
+songs by modern pop icons Kelly Clarkson (["Heartbeat
+Song"][heartbeat_song_ad_lib]) or Rihanna (["You Da One"][you_da_one_ad_lib]).
+Self-harmonization brings similar associations to mind (["Heartbeat Song" ...
+again][hearbeat_song_self_harmonization], Maroon 5 -
 ["Payphone"][payphone_self_harmonization]).
 
-The use of such extensive and obvious multitracking in _Pentatonix_ also
-surprises me because it departs so much from Pentatonix's previous studio sound.
-The only examples of multitracking I can find in their previous albums occurs at
-the [end of "Hark the Herald Angels
+The use of such extensive and obvious multitracking in _Pentatonix_ departs from
+Pentatonix's previous studio sound. The only examples of multitracking in their
+previous albums are subtle. Mitch ad libs over himself singing in the background
+at the [end of "Hark the Herald Angels
 Sing"][ptx_hark_the_herald_angels_mitch_ad_lib] and in ["Angels We Have Heard On
-High"][ptx_angels_we_have_heard_mitch_ad_lib], when Mitch ad libs over himself
-singing in the background. Other multitracking examples from previous albums, if
-they exist, are similarly subtle. No significant parts are multitracked; e.g. in
-["Standing by"][ptx_standing_by] and ["Most Wonderful Time of the
-Year"][ptx_most_wonderful_time_of_the_year] when Avi sings lead, I hear Scott's
-distinct timbre on the bass line.
+High"][ptx_angels_we_have_heard_mitch_ad_lib] in the albums _That's Christmas To
+Me_ and _PTXMas_, respectively. Other multitracking examples from previous
+albums, if they exist, are similarly subtle; unlike Home Free, Pentatonix, in
+the past, would shift parts rather than multitrack them. For example, when Avi,
+Pentatonix's bass, sings leads in ["Standing by"][ptx_standing_by] and ["Most
+Wonderful Time of the Year"][ptx_most_wonderful_time_of_the_year], I hear
+Scott's distinct timbre on the bass line.
 
 ### Vocal manipulation
 
 #### Kirstie's solos
 
-Kirstie's solos on this album shocked me.
+Pop elements are not only present through the addition of more tracks but also
+through manipulation of existing tracks, especially in Kirstie’s solos.
 
-Kirstie has a sweet voice. She's a good singer, but is often overshadowed by the
-raw talent of Pentatonix's other singing members: [Scott's wide range and
-charismatic lead][scott_i_should_tell_your_momma], [Mitch's pure-toned high
+Though Kirstie has a sweet voice, she is often overshadowed by the raw talent of
+Pentatonix's other singing members: [Scott's wide range and charismatic
+lead][scott_i_should_tell_your_momma], [Mitch's pure-toned high
 tenor][superfruit_defying_gravity], and [Avi's powerful
 bass][avi_if_i_were_the_king]. That said, Kirstie's voice proves a valuable
-addition to the group, she blends well with Mitch when singing harmonies, and
-her sweet toned solo [fits certain songs very well][ptx_daft_punk_digital_love].
+addition to the group, [she blends well with Mitch when singing
+harmonies][ptx_you_da_one_mitch_kirstie_blend], and her unpretentious voice
+[fits certain songs very well][ptx_daft_punk_digital_love].
 
 _Pentatonix_ completely distorts Kirstie's voice. Rather than a sweet tone, I
 hear a nasal tone lacking support, something I associate with the [overproduced,
 plastic, sexy-pop-star aesthetic][britney_spears_3], not a [former musical
-theatre student][ptx_bio]. Sure, good singers have the ability to color their
+theatre student][ptx_bio]. Yes, good singers have the ability to color their
 voices in different ways, but this tone only seems to appear when Kirstie takes
 the solo, e.g. [her verse in "Ref"][ptx_ref_kirstie_verse] or
 ["Water"][ptx_water]. While in the background, her voice seems untampered,
-suggesting production wizardry as the culprit. Regardless of what is
-responsible, I associate the effect overwhelmingly with undertalented female pop
-vocalists.
+suggesting production wizardry as the culprit.
 
 #### Effects
 
 Beyond the vocal manipulation of Kirstie's voice in "Water", I hear a lower,
 doubled octave when she sings ["Timid heart/Hide my
-scars"][ptx_water_timid_heart]. The same effect is applied on Scott's lyric ["I
-bet, I, I, I bet"][ptx_ref_i_bet] in "Ref". While an argument could be made that
+scars"][ptx_water_timid_heart]. The same effect is applied on Scott's [first
+verse][ptx_ref_first_verse] in "Ref". While an argument could be made that
 this counts as multitracking, I consider this an effect because the intent is
 different. Whereas multitracking is a production technique to fill in additional
 parts, adding a lower doubled octave is a mixing technique [to make vocal tracks
 sound fuller][octave_doubling_example]. Also, in Kirstie's case, it seems likely
 that her solo in its original octave was pitch-shifted down, not multitracked.
 If Kirstie did sing the lower octave, she would have had to hit a B♭2, unlikely
-considering [the lowest recorded note she's hit is an E3][kirstie_range].
+considering [her lowest recorded note is an E3][kirstie_range].
 
 I also hear the use of a complementary studio technique that makes a group sound
 bigger on this album. For example, the "ahhh"s above the chorus of "Sing" sound
@@ -149,10 +145,11 @@ it's coming from a group much larger than Pentatonix. I hear Avi's voice, but
 cannot tell which other members of Pentatonix sing the line.
 
 It's worth noting that the 2015 A Cappella Academy Choir is credited for
-provided backing vocals on 6/13 tracks on the album's standard edition, which
-might explain why backing vocals often sound as though supported by a large
-group, but the choir does not receive credit on either "Sing" or "First Things
-First".
+provided backing vocals on 6/13 tracks on the album's standard edition. The A
+Cappella Academy Choir's [far greater number of voices
+][aca_2015_choir_new_years_day] might explain why backing vocals often sound as
+though they are supported by a large group, but the choir does not receive
+credit on either "Sing" or "First Things First".
 
 It's not the effects themselves that make Pentatonix pop, but the way they are
 used. In the past, Pentatonix used clever arranging techniques to present a
@@ -163,20 +160,19 @@ seems to have shifted: the effects create a fuller sound.
 
 More subtle but equally important is _Pentatonix_'s treatment of vocal
 percussion. Kevin may not be the best beatboxer in the world, but he's a great
-vocal percussionist, and he makes valuable contributions. Beyond just providing
-a beat, [he and Avi work together to form a rhythm section][kevin_avi_rhythm].
+vocal percussionist, and [he and Avi work together to form a rhythm
+section][kevin_avi_rhythm].
 
 This makes me wonder then, why his contributions on _Pentatonix_ are so
-marginalized and mechanized. Kevin's distinctive voiced ["oo!"][kevin_oo]s
+marginalized and mechanized that Kevin's distinctive voiced ["oo!"][kevin_oo]s
 disappear, replaced with a generic pop beat. Consider ["Can't Sleep
 Love"][ptx_cant_sleep_love], Pentatonix's debut single from the album. [Kevin's
 line consists almost entirely of "boots" and "cats"][ptx_cant_sleep_love_kevin],
-the first sounds an amateur learns in [babby's first beatboxing
-class][ptx_blue_peter]. Other tracks on the album consist of similarly
-rudimentary beatbox technique. It's interesting to note that while Kevin
-augments some of his simplistic lines [when performing
-live][ptx_cant_sleep_love_live], they still feel very repetitive compared to the
-amazing work he does, for example, in [Pentatonix's live "NSYNC
+the first sounds [an amateur would learn to make][ptx_blue_peter]. Other tracks
+on the album consist of similarly rudimentary beatbox technique. Kevin does
+augment some of his simplistic lines [when performing
+live][ptx_cant_sleep_love_live], but they still feel very repetitive compared to
+the amazing work he does, for example, in [Pentatonix's live "NSYNC
 Medley"][ptx_nsync].
 
 _Pentatonix_ is—of course—[not the only a cappella album that suffers from
@@ -191,6 +187,8 @@ uses in the bridge of the same song][ptx_first_things_first_kevin_bridge].
 
 ### Collaborations
 
+#### On the album
+
 After Pentatonix won _The Sing-Off_, they were signed and then [dropped by
 Sony's Epic Records][ptx_wsj]. After being dropped, they found success
 on Youtube through a series of viral covers, accumulating [more views and
@@ -202,27 +200,51 @@ Kelly (["Walkin' in a Winter Wonderland/Don't Worry, Be
 Happy"][ptx_walkin_dont_worry]).
 
 The only collaboration on this album is with Jason Derulo in ["If I Ever Fall in
-Love"][ptx_if_i_ever_fall_in_love]. Contrast Derulo's career with previous
-Pentatonix collaborators: Derulo signed to minor recording label Beluga Heights,
-later bought by Warner Music Group, through which he released his debut single
-["Whatcha Say"][jason_derulo_whatcha_say] ([citation][jason_derulo_wiki]).
-"Whatcha Say" [charted number one on the Billboard Hot
-100][jason_derulo_whatcha_say_billboard]. Derulo is a major pop star with pop
-roots.
+Love"][ptx_if_i_ever_fall_in_love]. Derulo signed to minor recording label
+Beluga Heights, later bought by Warner Music Group, through which he released
+his debut single ["Whatcha Say"][jason_derulo_whatcha_say]
+([citation][jason_derulo_wiki]). "Whatcha Say" [charted number one on the
+Billboard Hot 100][jason_derulo_whatcha_say_billboard].
 
-This is a largely symbolic observation; the link between Derulo's pop roots with
-his performance in "If I Ever Fall in Love" is tenuous, if it exists at all. I
-brought this up, though, to point out that Pentatonix has been transitioning
-away from the Youtube world for some time now. Since being signed by RCA,
-they've posted one live cover to Youtube (["Evolution of Michael
-Jackson"][ptx_michael_jackson]), choosing to focus more on professionally
-produced music videos to go alongside their studio recorded tracks. _Pentatonix_
-comes with no promises to renew their original, refreshingly raw Youtube
-strategy. While they pay some homage to their Youtube roots in [the music video
-for "Sing"][ptx_sing], which features clips from Youtube-famous celebrities,
-e.g. Tyler Oakley and Grace Helbig, this is mostly fan-service with no concrete
-backing. Their channel now functions more as an afterthought than the source of
-their music, mirroring what more established pop stars might do.
+The link between Derulo's pop roots with his performance in "If I Ever Fall in
+Love" is tenuous, if it exists at all. I brought his background up, though, to
+point out Pentatonix's pop aspirations, which I also see reflected in their
+changing Youtube strategy. Pentatonix has been transitioning away from the
+Youtube world for some time now. Since being signed by RCA, they've posted one
+live cover to Youtube (["Evolution of Michael Jackson"][ptx_michael_jackson]),
+choosing to focus more on professionally produced music videos to go alongside
+their studio recorded tracks. _Pentatonix_ comes with no promises to renew their
+original, refreshingly raw Youtube strategy. While they pay some homage to their
+Youtube roots in [the music video for "Sing"][ptx_sing], which features clips
+from Youtube-famous celebrities (e.g. Tyler Oakley and Grace Helbig) this is
+mostly fan-service with no concrete backing. Their channel now functions more as
+an afterthought than the source of their music, mirroring what more established
+pop stars might do.
+
+#### Behind the scenes
+
+Looking behind the scenes further reveals the pop roots from which _Pentatonix_
+was born. Pentatonix and representatives [reached out top songwriters and
+producers][ptx_songwriter_interview]. In the end, songwriters including Audra
+Mae ([writing credits for Kelly Clarkson, Miranda Lambert,
+Avicii][audra_mae_writing_credits]), Taylor Parks ([Ariana Grande, Jennifer
+Lopez, Fifth Harmony][taylor_parks_writing_credits]), and Sam Hollander ([Katy
+Perry, Train, Neon Trees][sam_hollander_writing_credits]) receive writing
+credits on _Pentatonix_ alongside the five members of the group. Each
+songwriter, according to Pentatonix, came in to ["mediate and teach [them] the
+ways"][ptx_usa_today_interview]. Of course, this is not the first time
+Pentatonix has worked with professional songwriters. _PTX., Vol III_ [gives
+external writing credits][ptx_vol_iii_wiki] both on "On My Way Home" and "See
+Through", but _Pentatonix_ increases the amount of collaboration by an order of
+magnitude.
+
+Beyond songwriting, the group worked with pop producer Kuk Harrell ([vocal
+production credits for Rihanna, Justin Bieber, Katy
+Perry][kuk_harrell_credits]). After a positive first session, [they decided to
+continue working with him][ptx_amazon_interview]. As a result, Harrell receives
+vocal production credits for 9/13 songs on the standard edition of the album.
+[Pentatonix credits Harrell][ptx_songwriter_interview]] for bringing their sound
+closer to the mainstream.
 
 ### Arranging style
 
@@ -237,15 +259,14 @@ Killed the Radio Star"][ptx_video_killed_the_radio_star], adding a reggae bridge
 to ["Stuck Like Glue"][ptx_stuck_like_glue], harmonizing rap lyrics in ["Thrift
 Shop"][ptx_thrift_shop] and ["Can't Hold Us"][ptx_cant_hold_us], or adding
 rhythmic synchronization to ["We Are Young"][ptx_we_are_young]—garnered them
-critical acclaim on the show for their [futuristic style of a
+critical acclaim both on _The Sing Off_ for their [futuristic style of a
 cappella][ptx_from_the_future], and for the albums they released after it
 [especially _PTX, Vol. 1_][casa_2013w].
 
-I'll cite Pentatonix's rather derivative arrangement of Clean Bandit's ["Rather
-Be"][ptx_rather_be] and the uninspired original ["See Through"][ptx_see_through]
-in _PTX, Vol. III_ as evidence that the group began to lose their arranging
-spark around that point. Unfortunately, I find some songs similarly
-uninteresting on _Pentatonix_. ["Misbehavin'"][ptx_misbehavin],
+Pentatonix began to lose their arranging spark around their rather derivative
+arrangement of Clean Bandit's ["Rather Be"][ptx_rather_be] and the uninspired
+original ["See Through"][ptx_see_through] in _PTX, Vol. III_. _Pentatonix_'s
+similarly uniteresting ["Misbehavin'"][ptx_misbehavin],
 ["Cracked"][ptx_cracked], ["Water"][ptx_water], and even Pentatonix's debut
 single ["Can't Sleep Love"][ptx_cant_sleep_love] seem to lack the special spark
 that makes a Pentatonix arrangement so compelling. Whereas Pentatonix used to
@@ -268,41 +289,25 @@ moment I'd been waiting for during the whole album lasts only 15 seconds.
 I know Pentatonix can still create novel, compelling arrangements that stay true
 to their style just based on the three part harmony they move into after the
 bridge of "Cheerleader". Why don't they, then? A naive answer might blame
-_Pentatonix_'s all-original nature, its most visible difference from previous
-albums. I've pointed out, though, that Pentatonix has released previous original
-work. In fact, ["Baddest Girl"][ptx_baddest_girl] and ["Show You How to
-Love"][ptx_show_you_how_to_love] from _PTX, Vol. 1_ continue to be among my
-favorite Pentatonix songs of all time.
+_Pentatonix_'s all-original nature, its most apparent difference from previous
+albums. Pentatonix has released previous original work. In fact, ["Baddest
+Girl"][ptx_baddest_girl] and ["Show You How to Love"][ptx_show_you_how_to_love]
+from _PTX, Vol. 1_ continue to be among my favorite Pentatonix songs of all
+time.
 
-I'd point to the context of this album as the culprit for its sound. To create
-this album, Pentatonix and representatives [reached out top songwriters and
-producers][ptx_songwriter_interview]. In the end, songwriters including Audra
-Mae ([writing credits for Kelly Clarkson, Miranda Lambert,
-Avicii][audra_mae_writing_credits]), Taylor Parks ([Ariana Grande, Jennifer
-Lopez, Fifth Harmony][taylor_parks_writing_credits]), and Sam Hollander ([Katy
-Perry, Train, Neon Trees][sam_hollander_writing_credits]) receive writing
-credits on _Pentatonix_. While I don't know the exact nature of their
-collaboration, the group claims these songwriters came in to ["mediate and teach
-[them] the ways"][ptx_usa_today_interview]. Of course, this is not the first
-time Pentatonix has worked with professional songwriters. _PTX., Vol III_ [gives
-external writing credits][ptx_vol_iii_wiki] both on "On My Way Home" and "See
-Through". It seems that _Pentatonix_ increases the amount of collaboration by an
-order of magnitude.
-
-Beyond songwriting, the group worked with pop producer Kuk Harrell ([vocal
-production credits for Rihanna, Justin Bieber, Katy
-Perry][kuk_harrell_credits]). After a positive first session, [they decided to
-continue working with him][ptx_amazon_interview]. As a result, Harrell receives
-vocal production credits for 9/13 songs on the standard edition of the album.
-[Pentatonix credits Harrell][ptx_songwriter_interview]] for bringing their sound
-closer to the mainstream.
+I'd point to the context of this album as the culprit for its sound. As I
+mentioned, Pentatonix worked with pop songwriters and producers to create this
+album. Coming from a pop background, these behind the scenes creators of
+_Pentatonix_ likely had a huge influence on the sound of the album.
 
 All this said, placing responsibility for the sound of this album only on the
 external songwriters, the producers, or the other people involved behind the
 scenes denies Pentatonix agency. Pentatonix is mature enough to stick to their
 artistic vision. They've received plenty of pressure over the years to migrate
 away from a cappella music, but [have chosen to stick to their a cappella
-roots][ptx_wsj]. On the other hand, Pentatonix has also [craved mainstream
+roots][ptx_wsj].
+
+On the other hand, Pentatonix has also [craved mainstream
 attention][ptx_billboard]. Understanding the tension between these two
 conflicting interests elucidates the motivation behind _Pentatonix_: Pentatonix
 _wanted_ a pop sound for this album. They knew that only a pop album would get
@@ -315,17 +320,17 @@ it uses pop production techniques, was written with pop songwriters, was
 produced by pop professionals with a pop audience and pop goals in mind. To look
 on the other side of the genre coin, is it still fair to call _Pentatonix_
 contemporary a cappella? I know, the definition of a cappella is essentially
-"without instruments", and _Pentatonix_ meets this criterion. I think this
-definition is a little reductive, though. Contemporary a cappella music has
-developed its own sound, a sound very different from other forms of a cappella,
-such as sacred hymns. To continue to classify a cappella as simply "without
-instruments" denies contemporary a cappella identity as a genre. With this frame
-of reference, I don't think we can consider _Pentatonix_ contemporary a
-cappella.
+"without instruments", and _Pentatonix_ meets this criterion.
 
-Let's back up a little bit: pop and contemporary a cappella are not mutually
-exclusive categories. In fact, many a cappella groups have a pop focus: I'd say
-a majority of scholastic groups as well as many semi-professional and
+I think this definition is a little reductive, though. Contemporary a cappella
+music has developed its own sound, a sound very different from other forms of a
+cappella, such as sacred hymns. To continue to classify a cappella as simply
+"without instruments" denies contemporary a cappella identity as a genre. With
+this frame of reference, I don't think we can consider _Pentatonix_ contemporary
+a cappella.
+
+Pop and contemporary a cappella are not mutually exclusive categories. In fact,
+I'd say that the majority of scholastic groups and semi-professional and
 professional groups. Taken as a whole, however, contemporary a cappella groups
 employ a wide range of techniques and arrangements: from a "listen to a song,
 identify parts, and transcribe them for voice" approach to an approach that
@@ -335,20 +340,21 @@ voice.
 There is a difference though, between pop albums and contemporary a cappella
 albums with a pop focus. To illustrate the difference, I think it's constructive
 to compare _Pentatonix_ to the [critically acclaimed][casa_2014w] 2013 album
-_Bioluminescence_ from ARORA (née Sonos). ARORA says about _Bioluminescence_,
-"Two years in the making, 'Bioluminescence' perfectly demonstrates the cinematic
-dream pop sound that is ARORA, marrying dreamy vocals with striking production"
-([citation][arora_about]) Indeed, listening to _Bioluminescence_, it's easy to
+_Bioluminescence_ from ARORA (née Sonos). ARORA [says][arora_about] about
+_Bioluminescence_, "Two years in the making, 'Bioluminescence' perfectly
+demonstrates the cinematic dream pop sound that is ARORA, marrying dreamy vocals
+with striking production." Indeed, listening to _Bioluminescence_, it's easy to
 hear the use of many production effects, sometimes so many that the voices
 behind the effects are nearly impossible to discern (["Lock the
 Light"][arora_lock_the_light]). I would still consider _Bioluminescence_ to be
-contemporary a cappella, though. The difference between _Bioluminescence_ and
-_Pentatonix_ is not the amount of voice production, but its purpose. The members
-of ARORA uses the studio to clean up the sound from their trademark looping and
-effects pedals, creating a more meaningful illusion. _Pentatonix_ uses studio
-effects to bend the human voice closer to the existing mainstream pop sound.
-This creates a convincing pop album free of vocal artifacts that might turn off
-listeners unfamiliar with the genre.
+contemporary a cappella, though.
+
+The difference between _Bioluminescence_ and _Pentatonix_ is not the amount of
+voice production, but its purpose. The members of ARORA uses the studio to clean
+up the sound from their trademark looping and effects pedals, creating a more
+meaningful illusion. _Pentatonix_ uses studio effects to bend the human voice
+closer to the existing mainstream pop sound. This creates a convincing pop album
+free of vocal artifacts that might turn off listeners unfamiliar with the genre.
 
 I don't want to claim that either Pentatonix or ARORA uses effects for a nobler
 cause. I like songs on _Bioluminescence_ and _Pentatonix_ for different reasons.
@@ -358,17 +364,17 @@ hook in ["Sing"][ptx_sing] and introspective and yearning ["New Year's
 Day"][ptx_new_years_day] on _Pentatonix_, but I love them as pop songs, not as
 contemporary a cappella songs.
 
-Admitting that Pentatonix has crafted a pop album forces us to
-reevaluate _Pentatonix_ in a different context. Initially, Pentatonix's appeal
-was niche, they competed—literally—against other a cappella groups in _The
-Sing-Off_. Over the past several years, the group has vied for a broader
-audience's attention. Undeniably, they have succeeded, and now count [a
-Grammy][ptx_grammy_page] and [a tour with pop star Kelly
-Clarkson][ptx_kelly_clarkson_tour_announce] as notches in their belt. With
-_Pentatonix_, they have cemented themselves as a player in the pop world. By
-being so anxious to transcend their a cappella beginnings, however, Pentatonix
-may have sacrificed the feature that would make them unique in an oversaturated
-pop market.
+Admitting that Pentatonix has crafted a pop album forces us to reevaluate
+_Pentatonix_ in a different context. Initially, Pentatonix's appeal was niche,
+they competed—literally—against other a cappella groups in _The Sing-Off_. Over
+the past several years, the group has vied for a broader audience's attention.
+Undeniably, they have succeeded, and now count [a Grammy][ptx_grammy_page] and
+[a tour with pop star Kelly Clarkson][ptx_kelly_clarkson_tour_announce] as
+notches in their belt. With [_Pentatonix_'s debut at number 1 on the Billboard
+Hot 100][pentatonix_billboard_no1], they have cemented themselves as a player in
+the pop world. By being so anxious to transcend their a cappella beginnings,
+however, Pentatonix may have sacrificed the feature that would make them unique
+in an oversaturated pop market.
 
 To move beyond the group, considering _Pentatonix_ as a pop album has subtle but
 important effects on the rest of the contemporary a cappella community. In the
@@ -376,49 +382,43 @@ past, Pentatonix has been hailed as the group that would bring contemporary a
 cappella to the mainstream, giving it legitimacy as an art form [previously
 unrecognized by modern audiences][ptx_billboard]. With their wide exposure,
 Pentatonix has the ability to inspire the next generation of singers, both in
-and outside the contemporary a cappella world. What does it mean though, when
-the world's best known contemporary a cappella group releases a pop album? My
-fear is that equating success in contemporary a cappella with pop limits the
-scope of future a cappella. As I've said, pop does play a huge role in
-contemporary a cappella, but some of the most interesting a cappella releases
-eschew pop. As an example, I point to the [critically acclaimed][casa_2012w],
-delightfully strange, experimental [self-titled EP][boxettes_boxettes] by the
-now-defunct Boxettes. This album would sound very different were its creators
-convinced that their end goal was pop.
+and outside the contemporary a cappella world.
+
+What does it mean though, when the U.S.'s best known contemporary a cappella
+group releases a pop album? My fear is that equating success in contemporary a
+cappella with pop limits the scope of future a cappella. As I've said, pop does
+play a huge role in contemporary a cappella, but some of the most interesting a
+cappella releases eschew pop. As an example, I point to the [critically
+acclaimed][casa_2012w], delightfully strange, experimental [self-titled
+EP][boxettes_boxettes] by the now-defunct Boxettes. This album would sound very
+different were its creators convinced that their end goal was pop.
 
 To be fair, the opposite could happen as well. _Pentatonix_ could draw in those
 who would be otherwise uninterested in a cappella. Upon entering the community,
 these members might realize the range of music opportunities contemporary a
 cappella offers extends beyond pop.
 
-Regardless of my uncertainties surrounding _Pentatonix_'s impact on the genre
-and community, the group's pop ambitions are still grounded in one concrete
-reality: the need to perform live. While I wouldn't go so far as to call live
-performances the arbiter of a cappella, a cappella—indeed, music itself—is [born
-out of live performance][deke_sharon_everyone_sang], and [even groups known for
-their use of effects in the studio—e.g. Naturally
-7][naturally7_tom_anderson_effects]—must come to terms with the reality of
-touring. On tour, the songs in _Pentatonix_ will lack any studio polish and
-careful touch of an engineer. By Pentatonix's [own admission, they have some
-work to do][ptx_figure_out_sing_live] when figuring out how to perform some of
-their originals live. This challenge also presents an opportunity: when
-Pentatonix moves their originals from the studio to the stage, they'll have to
-be creative and to work within limitations. In doing this, I hope they
-rediscover what made them my favorite group in the first place.
-
-## Appendix B: Notes on individual songs
-TODO: Fill in
-
-## Appendix C: Initial impressions of _Pentatonix_
-TODO: Fill in
+Regardless of uncertainties surrounding _Pentatonix_'s impact on the genre and
+community, the group's pop ambitions are still grounded in one concrete reality:
+the need to perform live. While I wouldn't go so far as to call live
+performances the arbiter of a cappella, a cappella is born out of live
+performance, and [even groups known for their use of effects in the studio (e.g.
+Naturally 7][naturally7_tom_anderson_effects]) must come to terms with the
+reality of touring. On tour, the songs in _Pentatonix_ will lack any studio
+polish and the careful touch of an engineer. By Pentatonix's [own admission,
+they have some work to do][ptx_figure_out_sing_live] when figuring out how to
+perform some of their originals live. This challenge also presents an
+opportunity: when Pentatonix moves their originals from the studio to the stage,
+they'll have to be creative and to work within limitations. In doing this, I
+hope they rediscover what made them my favorite group in the first place.
 
 ## Appendix A: Liner Notes
 
 Unfortunately, the complete liner notes for _Pentatonix_ are not available
-anywhere else on the Internet, so I've (painstakingly) copied them here from the
+anywhere else on the Internet, so I've copied them here from the
 Target-exclusive deluxe edition of the album. I've made a few modifications:
 line breaks for readability, and title-casing words as opposed to leaving them
-as printed in their all-uppercase form.
+as originally printed in all uppercase.
 
 ### 01 Na Na Na
 (Avi Kaplan, Kevin "K.O." Olusola, Taylor Parks)  
@@ -702,6 +702,7 @@ Things First" Arranged by Pentatonix
 Mastered by Dave Kutch at the Mastering Palace, NYC
 
 [10cc_im_not_in_love]: https://play.spotify.com/track/1A6Kwtsg3JWKU2KWM2udpM?play=true
+[aca_2015_choir_new_years_day]: http://shunainspired.tumblr.com/post/131510542409/northeast-bound-me-and-a-cappella-academy
 [arora_about]: http://aroratheband.com/about
 [arora_lock_the_light]: https://www.youtube.com/watch?v=FKFT2d2BWZI
 [arora_silver_hand]: https://www.youtube.com/watch?v=x6kJK-NA9dQ
@@ -713,16 +714,16 @@ Mastered by Dave Kutch at the Mastering Palace, NYC
 [casa_2012w]: https://www.casa.org/cara2012w
 [casa_2013w]: https://www.casa.org/cara2013w
 [casa_2014w]: https://www.casa.org/cara2014w
-[deke_sharon_everyone_sang]: https://www.youtube.com/watch?v=hAPSKkzNTvg&t=6m54s
 [heartbeat_song_ad_lib]: https://www.youtube.com/watch?v=d4_6N-k5VS4&t=2m32s
 [heartbeat_song_self_harmonization]: https://www.youtube.com/watch?v=d4_6N-k5VS4&t=1m27s
-[home_free_champagne_taste]: https://www.youtube.com/watch?v=1L8zGfKDCCY
-[home_free_friends_in_low_places]: https://www.youtube.com/watch?v=VQwVbb0-c_g
-[home_free_ive_seen]: https://www.youtube.com/watch?v=u_v_5Jr8bx0
+[home_free_champagne_taste_tim_multitrack]: https://www.youtube.com/watch?v=1L8zGfKDCCY
+[home_free_friends_in_low_places_tim_multitrack]: https://www.youtube.com/watch?v=VQwVbb0-c_g&t=53
+[home_free_ive_seen_tim_multitrack]: https://www.youtube.com/watch?v=u_v_5Jr8bx0&t=28s
 [home_free_youtube]: https://www.youtube.com/user/HomeFreeVocalBand
 [jason_derulo_whatcha_say]: https://www.youtube.com/watch?v=pBI3lc18k8Q
 [jason_derulo_whatcha_say_billboard]: http://www.billboard.com/artist/304245/jason-derulo/chart#node-415025
 [jason_derulo_wiki]: https://en.wikipedia.org/wiki/Jason_Derulo
+[my_last_fm_pentatonix]: http://www.last.fm/user/kart0grapher/library/music/Pentatonix
 [kevin_avi_rhythm]: https://www.youtube.com/watch?v=xnbwR9sIOPI&t=40s
 [kevin_oo]: https://www.youtube.com/watch?v=UUxH1KVi84Q&t=43s
 [kirstie_range]: https://www.youtube.com/watch?v=3oPpyjZZBg8
@@ -731,6 +732,7 @@ Mastered by Dave Kutch at the Mastering Palace, NYC
 [nytimes_review]: http://www.nytimes.com/2015/10/29/arts/music/review-straight-no-chaser-and-pentatonix-a-cappella-sounds.html?_r=0
 [octave_doubling_example]: https://www.youtube.com/watch?v=3Vnb3tCCAz8&t=29s
 [payphone_self_harmonization]: https://www.youtube.com/watch?v=KRaWnd3LJfs&1m15s
+[pentatonix_billboard_no1]: http://www.billboard.com/articles/columns/chart-beat/6738540/pentatonix-first-no-1-album-billboard-200-chart
 [ptx_amazon_interview]: http://www.amazon.com/Writing-The-Album/dp/B017WXZJC6
 [ptx_angels_we_have_heard_mitch_ad_lib]: https://www.youtube.com/watch?v=VAMzAIH12yc&t=3m14s
 [ptx_baddest_girl]: https://www.youtube.com/watch?v=inJwkX4jYrU
@@ -766,7 +768,7 @@ Mastered by Dave Kutch at the Mastering Palace, NYC
 [ptx_rather_be]: https://www.youtube.com/watch?v=OPWPa-HMpj8
 [ptx_rca_signed]: http://www.rcarecords.com/news/vocal-sensations-pentatonix-sign-rca-records
 [ptx_ref]: https://www.youtube.com/watch?v=qPeO2qEZxbk
-[ptx_ref_i_bet]: https://www.youtube.com/watch?v=qPeO2qEZxbk&t=31s
+[ptx_ref_first_verse]: https://www.youtube.com/watch?v=qPeO2qEZxbk&t=8s
 [ptx_ref_kirstie_verse]: https://www.youtube.com/watch?v=qPeO2qEZxbk&t=1m14s
 [ptx_rose_gold]: https://www.youtube.com/watch?v=5Ow8nqa0X2A
 [ptx_see_through]: https://www.youtube.com/watch?v=JIH5sRFT1fw
@@ -788,6 +790,7 @@ Mastered by Dave Kutch at the Mastering Palace, NYC
 [ptx_wiki]: https://en.wikipedia.org/wiki/Pentatonix
 [ptx_wizard_of_ahhhs]: https://www.youtube.com/watch?v=QkVeKb2igrg
 [ptx_wsj]: http://www.wsj.com/articles/pentatonix-tears-up-the-charts-1418322119
+[ptx_you_da_one_mitch_kirstie_blend]: https://www.youtube.com/watch?v=RH5S2gLloWg&t=35s
 [ptx_yahoo_interview]: https://music.yahoo.com/video/pentatonix-exclusive-interview-225210809.html
 [ptxofficial_youtube_stats]: https://www.youtube.com/user/PTXofficial/about
 [rolling_stone_review]: https://www.rollingstone.com/music/albumreviews/pentatonix-pentatonix-20151016
