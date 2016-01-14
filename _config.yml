@@ -14,3 +14,5 @@ url: karepker.github.io
 author:
   name: 'Kar Epker'
   url: karepker.github.io
+
+exclude: [Gemfile]
