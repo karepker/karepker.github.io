@@ -36,6 +36,16 @@ I grew up in Massachusetts, went to school at the University of Michigan, and
 now I work in the bay area as a software
 ["engineer"][programmers_arent_engineers].
 
+I'm interested in criticism, critical thinking, rationality, skepticism,
+relationships, and disagreements (especially ones [that shouldn't
+happen][aumanns_agreement_thm]).
+
+Here are links to some of my online profiles:
+
+* [Facebook](https://github.com/karepker)
+* [Github](https://github.com/karepker)
+* [Last.fm](http://www.last.fm/user/kart0grapher/)
+
 ## How was this website built?
 
 It's built on [Jekyll][jekyll] using a modified version of [@mdo][mdo_twitter]'s
@@ -47,3 +57,4 @@ It's built on [Jekyll][jekyll] using a modified version of [@mdo][mdo_twitter]'s
 [lanyon]: https://github.com/poole/lanyon
 [github_pages]: https://pages.github.com/
 [programmers_arent_engineers]: http://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/
+[aumanns_agreement_thm]: https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem
