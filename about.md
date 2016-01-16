@@ -24,10 +24,10 @@ developed, and I began to expand beyond film into writing about books.
 Separately, during my sophomore year in college, I became more interested in
 critical thinking, and evaluating claims logically and rationally.
 
-At this point (end of 2015), I feel like I've developed my writing enough that
-I'd like to start circulating it more widely, so I've taken the full plunge and
-decided to post it completely in public on the Internet. Make no mistake: I am
-not qualified be a professional critic, but I believe my views are sometimes
+At this point (beginning of 2016), I feel like I've developed my writing enough
+that I'd like to start circulating it more widely, so I've taken the full plunge
+and decided to post it completely in public on the Internet. Make no mistake: I
+am not qualified be a professional critic, but I believe my views are sometimes
 unique and—I hope one day—will become insightful.
 
 ## Who are you?
