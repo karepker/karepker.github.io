@@ -34,22 +34,26 @@ These are works that had an enormous influence on my thinking and interests.
 While these works didn't necessarily change my perspective, I find them
 exceptionally well argued.
 
-* [The Categories Were Made for Man, Not Man for the Categories][ssc_trans]: I
-  often find Scott Alexander's work at SlateStarCodex very well-argued, but this
-  essay is one of my favorites. In it, Scott builds an argument for trans
-  individuals by explaining that gender self-identification is redrawing
-  boundaries to increase happiness, not an issue of "truth".
-* [Blame][radiolab_blame]: Perhaps it's a bit of a misnomer to place a Radiolab
-  episode under a section called "Well argued", because Radiolab rarely argues,
-  preferring to tell stories to make issues concrete. "Blame", my favorite
-  Radiolab episode, finishes with a story about the power of forgiveness and
-  empathy in connecting people who have every reason to hate each other.
+* [The Categories Were Made for Man, Not Man for the Categories][ssc_trans]:
+  Scott Alexander's argument in support of trans individuals and for
+  interpreting gender as a self-identified category is one of my favorite posts
+  on his site, and a model for any social arguments I'd want to make.
+* [Blame][radiolab_blame]: Radiolab's style of elucidating issues by telling
+  stories works very well in this episode. In particular, I find the last story
+  to be a good reminder that forgiveness and empathy toward the other side can
+  be more constructive than blind hatred.
 * [How We All Miss the Point on School Shootings][mark_manson_school_shootings]:
-  Mark Manson is probably best known for his dating advice about building
-  healthy relationships through shared vulnerability. In this essay, he branches
-  out a little, cutting through the politicization of school shootings to argue
-  that by truly caring for and being interested in others, we might be able to
-  stop some of the violence.
+  Mark Manson cuts through the politicization of school shootings to argue that
+  their root cause is a culture in which honest relationships are taboo. (TW:
+  violence, misogyny.)
+* [Why Go Is Not Good][why_go_is_not_good]: Criticism is not limited to art.
+  This piece on the Go language interests me both as a programmer and a critic.
+* [How Apple and Amazon Security Flaws Led to My Epic
+  Hacking][wired_mat_honan_hacking]: Finger-pointing headline aside, this story
+  demonstrated to me how vulnerable we are online, and that we can be hacked for
+  the most arbitrary reasons. After reading it upon its publication in 2012, I
+  turned on two factor authentication everywhere I could. This isn't a perfect
+  solution, but it can go a long way toward solving the problem.
 
 [methods]: hpmor.com
 [youtube_plinkett_playlist]: https://www.youtube.com/watch?v=FxKtZmQgxrI&list=PLWXQdJ1_d0vSgPFQEaxS9lYDIGwxM6p2B
@@ -57,3 +61,5 @@ exceptionally well argued.
 [ssc_trans]: http://slatestarcodex.com/2014/11/21/the-categories-were-made-for-man-not-man-for-the-categories/
 [radiolab_blame]: http://www.radiolab.org/story/317421-blame/
 [mark_manson_school_shootings]: http://markmanson.net/school-shootings
+[why_go_is_not_good]: http://yager.io/programming/go.html
+[wired_mat_honan_hacking]: http://www.wired.com/2012/08/apple-amazon-mat-honan-hacking/
