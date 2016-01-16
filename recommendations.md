@@ -14,14 +14,14 @@ These are works that had an enormous influence on my thinking and interests.
 * ~~[_Harry Potter and the Methods of Rationality_][methods]~~: When I first
   found _Methods_, I couldn't stop reading it; I blew through the first ~1500
   pages in two weeks during my sophomore year in college. By the time I had
-  finished all that was available chapters, _Methods_ had sparked my interest in
+  finished all available chapters, _Methods_ had sparked my interest in
   rationality, critical thinking, philosophy, and skepticism. While rereading it
-  after its completion in 2015, however, I began to pick up on red flags, which
-  were later confirmed and instantiated when I discovered [su3su2u1's
-  review][su3su2u1_methods_review], which points out the deep problems with both
-  the goals and execution of _Methods_. What was once my most enthusiastic
+  after its completion in 2015, however, I started noting some red flags, which
+  were later confirmed and instantiated when I discovered [su3su2u1's posts
+  about _Methods_][su3su2u1_methods_posts], which point out deep problems with
+  both its goals and execution. What was once my most enthusiastic
   recommendation is now my most ambivalent, but I keep _Methods_ on this list
-  because of its undeniable initial impact on me.
+  because of its undeniable impact on me.
 * [Harry Plinkett's reviews][youtube_plinkett_playlist]: Before watching
   Plinkett's reviews, I thought criticism was mostly touchy-feely garbage
   written by cynical hipsters. Plinkett's reviews showed me that criticism could
@@ -57,7 +57,7 @@ exceptionally well argued.
 
 [methods]: hpmor.com
 [youtube_plinkett_playlist]: https://www.youtube.com/watch?v=FxKtZmQgxrI&list=PLWXQdJ1_d0vSgPFQEaxS9lYDIGwxM6p2B
-[su3su2u1_methods_review]: http://su3su2u1.tumblr.com/tagged/Hariezer-Yudotter/chrono
+[su3su2u1_methods_posts]: http://su3su2u1.tumblr.com/tagged/Hariezer-Yudotter/chrono
 [ssc_trans]: http://slatestarcodex.com/2014/11/21/the-categories-were-made-for-man-not-man-for-the-categories/
 [radiolab_blame]: http://www.radiolab.org/story/317421-blame/
 [mark_manson_school_shootings]: http://markmanson.net/school-shootings
