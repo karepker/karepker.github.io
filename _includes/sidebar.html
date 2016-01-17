@@ -13,9 +13,9 @@
   {% capture home_url %}{{ site.baseurl }}/{% endcapture %}
   <nav class="sidebar-nav">
 	{% if page.url == home_url %}
-      <a class="sidebar-nav-item active" href="{{ site.baseurl }}/">Home</a>
+      <a class="sidebar-nav-item active" href="{{ home_url }}">Home</a>
     {% else %}
-      <a class="sidebar-nav-item" href="{{ site.baseurl }}/">Home</a>
+      <a class="sidebar-nav-item" href="{{ home_url }}">Home</a>
     {% endif %}
 
     {% comment %}
