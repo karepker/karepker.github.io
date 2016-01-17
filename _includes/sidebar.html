@@ -39,14 +39,10 @@
     {% endfor %}
   </nav>
 
-  {% if page.url == home_url %}
-    <div class="sidebar-nav-item active feed">
-  {% else %}
-    <div class="sidebar-nav-item feed">
-  {% endif %}
-      <img src="{{ site.baseurl }}/static/feed-icon.png"/>
-      <a href="{{ site.baseurl }}/feed.xml">Feed</a>
-    </div>
+  <div class="sidebar-nav-item feed">
+    <img src="{{ site.baseurl }}/static/feed-icon.png"/>
+    <a href="{{ site.baseurl }}/feed.xml">Feed</a>
+  </div>
   <div class="sidebar-item">
     <p>
       <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">
