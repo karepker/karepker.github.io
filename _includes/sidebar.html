@@ -8,6 +8,8 @@
 <!-- Toggleable sidebar -->
 {% endcomment %}
 <div class="sidebar" id="sidebar">
+  <div class="sidebar-item">{{ site.description }}</div>
+
   {% capture home_url %}{{ site.baseurl }}/{% endcapture %}
   <nav class="sidebar-nav">
 	{% if page.url == home_url %}
