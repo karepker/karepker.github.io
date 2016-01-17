@@ -1,6 +1,6 @@
 # My personal website repository
 
-Right now, it's at karepker.github.io.
+Find it at [karepker.com](https://karepker.com).
 
 # Licensing
 
