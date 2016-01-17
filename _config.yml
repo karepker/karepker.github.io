@@ -9,11 +9,12 @@ permalink: pretty
 
 # Setup
 title: Kar Epker
-url: karepker.github.io
+url: https://karepker.com
+enforce_ssl: karepker.com
 description: My gr8 webzone!
 
 author:
   name: 'Kar Epker'
-  url: karepker.github.io
+  url: karepker.com
 
 exclude: [Gemfile]
