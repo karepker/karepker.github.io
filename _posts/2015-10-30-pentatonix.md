@@ -36,8 +36,6 @@ differences and similarities.
 
 ## Who?
 
-For those who are unfamiliar with the group, some brief history before we start:
-
 For those who are unfamiliar with the group, Pentatonix is a five person a
 cappella group composed of members Scott Hoying (baritone), Mitch Grassi
 (tenor), Kirstie Maldonado (alto), Avi Kaplan (bass), and Kevin Olusola (vocal
