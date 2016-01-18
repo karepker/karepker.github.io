@@ -73,7 +73,7 @@ uses it to add pop flourishes. Ad libbing over a final chorus brings to mind
 songs by modern pop icons Kelly Clarkson (["Heartbeat
 Song"][heartbeat_song_ad_lib]) or Rihanna (["You Da One"][you_da_one_ad_lib]).
 Self-harmonization brings similar associations to mind (["Heartbeat Song" ...
-again][hearbeat_song_self_harmonization], Maroon 5 -
+again][heartbeat_song_self_harmonization], Maroon 5 -
 ["Payphone"][payphone_self_harmonization]).
 
 The use of such extensive and obvious multitracking in _Pentatonix_ departs from
@@ -119,8 +119,8 @@ suggesting production wizardry as the culprit.
 Beyond the vocal manipulation of Kirstie's voice in "Water", I hear a lower,
 doubled octave when she sings ["Timid heart/Hide my
 scars"][ptx_water_timid_heart]. The same effect is applied on Scott's [first
-verse][ptx_ref_first_verse] in "Ref". While an argument could be made that
-this counts as multitracking, I consider this an effect because the intent is
+verse in "Ref"][ptx_ref_first_verse]. While an argument could be made that this
+counts as multitracking, I consider this an effect because the intent is
 different. Whereas multitracking is a production technique to fill in additional
 parts, adding a lower doubled octave is a mixing technique [to make vocal tracks
 sound fuller][octave_doubling_example]. Also, in Kirstie's case, it seems likely
@@ -231,8 +231,8 @@ Perry, Train, Neon Trees][sam_hollander_writing_credits]) receive writing
 credits on _Pentatonix_ alongside the five members of the group. Each
 songwriter, according to Pentatonix, came in to ["mediate and teach [them] the
 ways"][ptx_usa_today_interview]. Of course, this is not the first time
-Pentatonix has worked with professional songwriters. _PTX., Vol III_ [gives
-external writing credits][ptx_vol_iii_wiki] both on "On My Way Home" and "See
+Pentatonix has worked with professional songwriters. _PTX, Vol III_ [gives
+external writing credits][ptx_vol_iii_wiki] for both "On My Way Home" and "See
 Through", but _Pentatonix_ increases the amount of collaboration by an order of
 magnitude.
 
@@ -241,7 +241,7 @@ production credits for Rihanna, Justin Bieber, Katy
 Perry][kuk_harrell_credits]). After a positive first session, [they decided to
 continue working with him][ptx_amazon_interview]. As a result, Harrell receives
 vocal production credits for 9/13 songs on the standard edition of the album.
-[Pentatonix credits Harrell][ptx_songwriter_interview]] for bringing their sound
+[Pentatonix credits Harrell][ptx_songwriter_interview] for bringing their sound
 closer to the mainstream.
 
 ### Arranging style
@@ -258,7 +258,7 @@ to ["Stuck Like Glue"][ptx_stuck_like_glue], harmonizing rap lyrics in ["Thrift
 Shop"][ptx_thrift_shop] and ["Can't Hold Us"][ptx_cant_hold_us], or adding
 rhythmic synchronization to ["We Are Young"][ptx_we_are_young]—garnered them
 critical acclaim both on _The Sing Off_ for their [futuristic style of a
-cappella][ptx_from_the_future], and for the albums they released after it
+cappella][ptx_from_the_future], and for the albums they released after it,
 [especially _PTX, Vol. 1_][casa_2013w].
 
 Pentatonix began to lose their arranging spark around their rather derivative
@@ -329,11 +329,11 @@ a cappella.
 
 Pop and contemporary a cappella are not mutually exclusive categories. In fact,
 I'd say that the majority of scholastic groups and semi-professional and
-professional groups. Taken as a whole, however, contemporary a cappella groups
-employ a wide range of techniques and arrangements: from a "listen to a song,
-identify parts, and transcribe them for voice" approach to an approach that
-seeks inspiration from different genres and pushes the boundaries of the human
-voice.
+professional groups have a pop focus. Taken as a whole, however, contemporary a
+cappella groups employ a wide range of techniques and arrangements: from a
+"listen to a song, identify parts, and transcribe them for voice" approach to an
+approach that seeks inspiration from different genres and pushes the boundaries
+of the human voice.
 
 There is a difference though, between pop albums and contemporary a cappella
 albums with a pop focus. To illustrate the difference, I think it's constructive
@@ -401,7 +401,7 @@ community, the group's pop ambitions are still grounded in one concrete reality:
 the need to perform live. While I wouldn't go so far as to call live
 performances the arbiter of a cappella, a cappella is born out of live
 performance, and [even groups known for their use of effects in the studio (e.g.
-Naturally 7][naturally7_tom_anderson_effects]) must come to terms with the
+Naturally 7)][naturally7_tom_anderson_effects] must come to terms with the
 reality of touring. On tour, the songs in _Pentatonix_ will lack any studio
 polish and the careful touch of an engineer. By Pentatonix's [own admission,
 they have some work to do][ptx_figure_out_sing_live] when figuring out how to
