@@ -543,12 +543,13 @@ a.sidebar-nav-item:focus {
 .post-header h2,
 .post-header h2 a {
   color: #313131;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .post-header.has-cover h1,
 .post-header.has-cover h1 a,
 .post-header.has-cover h2,
-.post-header.has-cover h2 a{
+.post-header.has-cover h2 a {
   color: #e0e0e0;
 }
 
@@ -572,7 +573,6 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 3rem;
 }
 .page-title,
@@ -584,21 +584,18 @@ a.sidebar-nav-item:focus {
 .page-subtitle,
 .post-subtitle,
 .post-subtitle a {
-  margin-left: 0.5rem;
   font-size: 1.5rem;
-  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .page-subtitle,
 .post-subtitle {
   margin-top: 0;
 }
 
-/* Meta data line below post title */
-.post-date {
-  display: block;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  color: #808080;
+/* Meta data line below post title and subtitle. */
+.post-author-date {
+  margin: 0 auto;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #999;
 }
 
 /* Related posts */

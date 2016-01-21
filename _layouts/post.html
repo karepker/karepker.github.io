@@ -13,12 +13,7 @@ layout: default
   {% endif %}
   {% include post_header.html page=page %}
   </div>
-  <div class="post-content pad-sides">
-    {{content}}
-	<hr/>
-	[{{ page.date | date: '%Y-%m-%d' }}] by
-	{% include post_author.html post=post %}
-  </div>
+  <div class="post-content pad-sides">{{ content }}</div>
 </div>
 
 <div class="related pad-sides">
