@@ -42,9 +42,10 @@ happen][aumanns_agreement_thm]).
 
 Here are links to some of my online profiles:
 
-* [Facebook](https://github.com/karepker)
+* [Facebook](https://www.facebook.com/karepker)
 * [Github](https://github.com/karepker)
-* [Last.fm](http://www.last.fm/user/kart0grapher/)
+* [Last.fm](http://www.last.fm/user/kart0grapher)
+* [LinkedIn](https://www.linkedin.com/in/karepker)
 
 ## How was this website built?
 
