@@ -27,7 +27,7 @@ These are works that had an enormous influence on my thinking and interests.
   written by cynical hipsters. Plinkett's reviews showed me that criticism could
   be concrete, and gives me an example I strive to match in quality when I
   critique. His reviews are also hilariously done in character as a senile,
-  homicidal man. (TW: implied violence against women.)
+  homicidal man. ([TW][ssc_triggers]: implied violence against women.)
 
 ## Well argued
 
@@ -55,11 +55,12 @@ exceptionally well argued.
   turned on two factor authentication everywhere I could. This isn't a perfect
   solution, but it can go a long way toward solving the problem.
 
-[methods]: hpmor.com
-[youtube_plinkett_playlist]: https://www.youtube.com/watch?v=FxKtZmQgxrI&list=PLWXQdJ1_d0vSgPFQEaxS9lYDIGwxM6p2B
-[su3su2u1_methods_posts]: http://su3su2u1.tumblr.com/tagged/Hariezer-Yudotter/chrono
-[ssc_trans]: http://slatestarcodex.com/2014/11/21/the-categories-were-made-for-man-not-man-for-the-categories/
-[radiolab_blame]: http://www.radiolab.org/story/317421-blame/
 [mark_manson_school_shootings]: http://markmanson.net/school-shootings
+[methods]: hpmor.com
+[radiolab_blame]: http://www.radiolab.org/story/317421-blame/
+[ssc_trans]: http://slatestarcodex.com/2014/11/21/the-categories-were-made-for-man-not-man-for-the-categories/
+[ssc_triggers]: http://slatestarcodex.com/2014/05/30/the-wonderful-thing-about-triggers/
+[su3su2u1_methods_posts]: http://su3su2u1.tumblr.com/tagged/Hariezer-Yudotter/chrono
 [why_go_is_not_good]: http://yager.io/programming/go.html
+[youtube_plinkett_playlist]: https://www.youtube.com/watch?v=FxKtZmQgxrI&list=PLWXQdJ1_d0vSgPFQEaxS9lYDIGwxM6p2B
 [wired_mat_honan_hacking]: http://www.wired.com/2012/08/apple-amazon-mat-honan-hacking/
