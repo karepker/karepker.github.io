@@ -157,9 +157,8 @@ seems to have shifted: the effects create a fuller sound.
 ### Vocal Percussion Simplification
 
 More subtle but equally important is _Pentatonix_'s treatment of vocal
-percussion. Kevin may not be the best beatboxer in the world, but he's a great
-vocal percussionist, and [he and Avi work together to form a rhythm
-section][kevin_avi_rhythm].
+percussion. Kevin's a great vocal percussionist, and [he and Avi work together
+to form a rhythm section][kevin_avi_rhythm].
 
 This makes me wonder then, why his contributions on _Pentatonix_ are so
 marginalized and mechanized that Kevin's distinctive voiced ["oo!"][kevin_oo]s
@@ -311,7 +310,7 @@ conflicting interests elucidates the motivation behind _Pentatonix_: Pentatonix
 _wanted_ a pop sound for this album. They knew that only a pop album would get
 them radio airplay and launch them into national recognition.
 
-## Can we still consider _Pentatonix_ a contemporary a cappella album?
+## Is _Pentatonix_ a contemporary a cappella album?
 
 I've spent the previous sections talking about how _Pentatonix_ is a pop album:
 it uses pop production techniques, was written with pop songwriters, was
