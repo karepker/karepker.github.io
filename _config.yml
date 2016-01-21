@@ -15,6 +15,6 @@ description: My gr8 webzone!
 
 author:
   name: 'Kar Epker'
-  url: karepker.com
+  url: https://karepker.com
 
 exclude: [Gemfile]
