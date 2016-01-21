@@ -16,6 +16,7 @@ layout: default
   <div class="post-content pad-sides">{{ content }}</div>
 </div>
 
+{% if site.related_posts.size > 0 %}
 <div class="related pad-sides">
   <h2>Related Posts</h2>
   <ul class="related-posts">
@@ -31,3 +32,4 @@ layout: default
     {% endfor %}
   </ul>
 </div>
+{% endif %}
