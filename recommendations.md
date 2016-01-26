@@ -21,7 +21,7 @@ These are works that had an enormous influence on my thinking and interests.
   about _Methods_][su3su2u1_methods_posts], which point out deep problems with
   both its goals and execution. What was once my most enthusiastic
   recommendation is now my most ambivalent, but I keep _Methods_ on this list
-  because of its undeniable impact on me.
+  because of it is the most important work I've ever read.
 * [Harry Plinkett's reviews][youtube_plinkett_playlist]: Before watching
   Plinkett's reviews, I thought criticism was mostly touchy-feely garbage
   written by cynical hipsters. Plinkett's reviews showed me that criticism could
@@ -35,13 +35,13 @@ While these works didn't necessarily change my perspective, I find them
 exceptionally well argued.
 
 * [The Categories Were Made for Man, Not Man for the Categories][ssc_trans]:
-  Scott Alexander's argument in support of trans individuals and for
-  interpreting gender as a self-identified category is one of my favorite posts
-  on his site, and a model for any social arguments I'd want to make.
-* [Blame][radiolab_blame]: Radiolab's style of elucidating issues by telling
-  stories works very well in this episode. In particular, I find the last story
-  to be a good reminder that forgiveness and empathy toward the other side can
-  be more constructive than blind hatred.
+  Scott Alexander's post in support of trans individuals and for interpreting
+  gender as a self-identified category is one of my favorite posts on his site,
+  and a model for any social arguments I'd want to make.
+* [Blame][radiolab_blame]: I love Radiolab's style of making abstract issues
+  concrete through stories. In this episode, I find the last story to be a good
+  reminder that forgiveness and empathy toward the other side can be more
+  constructive than blind hatred.
 * [How We All Miss the Point on School Shootings][mark_manson_school_shootings]:
   Mark Manson cuts through the politicization of school shootings to argue that
   their root cause is a culture in which honest relationships are taboo. (TW:
