@@ -11,10 +11,10 @@ an item here if I still consider it important after a year.
 
 These are works that had an enormous influence on my thinking and interests.
 
-* ~~[_Harry Potter and the Methods of Rationality_][methods]~~: When I first
-  found _Methods_, I couldn't stop reading it; I blew through the first ~1500
-  pages in two weeks during my sophomore year in college. By the time I had
-  finished all available chapters, _Methods_ had sparked my interest in
+* <del>[_Harry Potter and the Methods of Rationality_][methods]</del>: When I
+  first found _Methods_, I couldn't stop reading it; I blew through the first
+  ~1500 pages in two weeks during my sophomore year in college. By the time I
+  had finished all available chapters, _Methods_ had sparked my interest in
   rationality, critical thinking, philosophy, and skepticism. While rereading it
   after its completion in 2015, however, I started noting some red flags, which
   were later confirmed and instantiated when I discovered [su3su2u1's posts
