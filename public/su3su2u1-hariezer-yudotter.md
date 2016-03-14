@@ -1131,37 +1131,37 @@ So this chapter is a long, pretty much useless conversation between Draco and
 Hariezer about how they are manipulating each other and Dumbledore or whatever,
 but smack in the middle we get this rumination:
 
-In the beginning, before people had quite understood how evolution worked,
-they'd gone around thinking crazy ideas like human intelligence evolved so that
-we could invent better tools.
-
-The reason why this was crazy was that only one person in the tribe had to
-invent a tool, and then everyone else would use it...the person who invented
-something didn't have much of a fitness advantage, didn't have all that many
-more children than everyone else. [SU comment- could the inventor of an
-invention perhaps get to occupy a position of power within a tribe? Could that
-lead to them having more wealth and children?]
-
-It was a natural guess... A natural guess, but wrong.
-
-Before people had quite understood how evolution worked, they'd gone around
-thinking crazy ideas like the climate changed, and tribes had to migrate, and
-people had to become smarter in order to solve all the novel problems.
-
-But human beings had four times the brain size of a chimpanzee. 20% of a human's
-metabolic energy went into feeding the brain. Humans were ridiculously smarter
-than any other species. That sort of thing didn't happen because the environment
-stepped up the difficulty of its problems a little.... [SU challenge to the
-reader- save this climate change evolutionary argument with an ad-hoc
-justification]
-
-Ending up with that gigantic outsized brain must have taken some sort of
-runawayevolutionary process...And today's scientists had a pretty good guess at
-what that runaway evolutionary process had been....
-
-[It was] Millions of years of hominids trying to outwit each other - an
-evolutionary arms race without limit - [that] had led to... increased mental
-capacity.
+  > In the beginning, before people had quite understood how evolution worked,
+  > they'd gone around thinking crazy ideas like human intelligence evolved so
+  > that we could invent better tools.
+  >
+  > The reason why this was crazy was that only one person in the tribe had to
+  > invent a tool, and then everyone else would use it...the person who invented
+  > something didn't have much of a fitness advantage, didn't have all that many
+  > more children than everyone else. **[SU comment- could the inventor of an
+  > invention perhaps get to occupy a position of power within a tribe? Could
+  > that lead to them having more wealth and children?]**
+  >
+  > It was a natural guess... A natural guess, but wrong.
+  >
+  > Before people had quite understood how evolution worked, they'd gone around
+  > thinking crazy ideas like the climate changed, and tribes had to migrate,
+  > and people had to become smarter in order to solve all the novel problems.
+  >
+  > But human beings had four times the brain size of a chimpanzee. 20% of a
+  > human's metabolic energy went into feeding the brain. Humans were
+  > ridiculously smarter than any other species. That sort of thing didn't
+  > happen because the environment stepped up the difficulty of its problems a
+  > little.... **[SU challenge to the reader- save this climate change
+  > evolutionary argument with an ad-hoc justification]**
+  >
+  > Ending up with that gigantic outsized brain must have taken some sort of
+  > runawayevolutionary process...And today's scientists had a pretty good guess
+  > at what that runaway evolutionary process had been....
+  >
+  > [It was] Millions of years of hominids trying to outwit each other - an
+  > evolutionary arms race without limit - [that] had led to... increased mental
+  > capacity.
 
 What does his preferred explanation for the origin of intelligence (people
 evolved to outwit each other) say about the author?
@@ -4987,6 +4987,7 @@ yourself in lots of ways, but not in this way.**
 
   > Unable to speak, she brought forth her wand and did so, releasing the
   > time-keyed enchantment she'd laced into the shell's lock.
+
 The only lessons learned from this are other character "updating towards" the
 idea that Hariezer Yudotter is always right.  And he fails when other people
 have prevented his natural PC based awesomenes.
