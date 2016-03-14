@@ -36,7 +36,7 @@ copying the posts, he did write:
 It's not clear how to attribute su3su2u1 anymore now that his tumblr is gone,
 but I hope this is acceptable.
 
-Editors notes are indicated by _[Ed. ...]_ blocks.
+Editor's notes are indicated by _[Ed. ...]_ blocks.
 
 ---
 
