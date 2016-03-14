@@ -21,7 +21,7 @@ These are works that had an enormous influence on my thinking and interests.
   about _Methods_][su3su2u1_methods_posts], which point out deep problems with
   both its goals and execution. What was once my most enthusiastic
   recommendation is now my most ambivalent, but I keep _Methods_ on this list
-  because of it is the most important work I've ever read.
+  because it is the most important work I've ever read.
 * [Harry Plinkett's reviews][youtube_plinkett_playlist]: Before watching
   Plinkett's reviews, I thought criticism was mostly touchy-feely garbage
   written by cynical hipsters. Plinkett's reviews showed me that criticism could
