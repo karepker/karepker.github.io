@@ -12,3 +12,7 @@ author:
   url: https://karepker.com
 
 exclude: [Gemfile]
+
+kramdown:
+  input: GFM
+  hard_wrap: false

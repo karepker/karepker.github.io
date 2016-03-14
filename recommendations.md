@@ -11,7 +11,7 @@ an item here if I still consider it important after a year.
 
 These are works that had an enormous influence on my thinking and interests.
 
-### <del>[_Harry Potter and the Methods of Rationality_][methods]</del> 
+### ~~[_Harry Potter and the Methods of Rationality_][methods]~~
 
 When I first found _Methods_, I couldn't stop reading it; I blew through the
 first ~1500 pages in two weeks during my sophomore year in college. By the time
