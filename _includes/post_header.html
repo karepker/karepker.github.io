@@ -9,6 +9,6 @@
   {% endif %}
   <h5 class="post-author-date">
     {{ include.page.date | date: '%Y-%m-%d' }} by
-    {% include post_author.html post=post %}
+    {% include post_author.html post=include.page %}
   </h5>
 </div>
