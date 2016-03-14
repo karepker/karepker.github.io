@@ -69,7 +69,7 @@ everywhere I could. This isn't a perfect solution, but it can go a long way
 toward solving the problem.
 
 [mark_manson_school_shootings]: http://markmanson.net/school-shootings
-[methods]: hpmor.com
+[methods]: http://hpmor.com
 [radiolab_blame]: http://www.radiolab.org/story/317421-blame/
 [ssc_trans]: http://slatestarcodex.com/2014/11/21/the-categories-were-made-for-man-not-man-for-the-categories/
 [ssc_triggers]: http://slatestarcodex.com/2014/05/30/the-wonderful-thing-about-triggers/
