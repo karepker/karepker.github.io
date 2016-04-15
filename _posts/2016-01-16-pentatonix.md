@@ -752,7 +752,7 @@ Mastered by Dave Kutch at the Mastering Palace, NYC
 [ptx_from_the_future]: https://www.youtube.com/watch?v=xt7smksoCiU&t=4m5s
 [ptx_grammy_page]: https://www.grammy.com/artist/pentatonix
 [ptx_hark_the_herald_angels_mitch_ad_lib]: https://www.youtube.com/watch?v=QJsC0Xr7lq8&t=2m39s
-[ptx_if_i_ever_fall_in_love]: https://www.youtube.com/watch?v=JN5indI2r_M
+[ptx_if_i_ever_fall_in_love]: https://www.youtube.com/watch?v=WbV8htgtbfs
 [ptx_kelly_clarkson_tour_announce]: https://www.youtube.com/watch?v=cWY1bWCD6mo
 [ptx_michael_jackson]: https://www.youtube.com/watch?v=NJmFrLkc4Y8
 [ptx_misbehavin]: https://www.youtube.com/watch?v=ywYfMlyIkeo
