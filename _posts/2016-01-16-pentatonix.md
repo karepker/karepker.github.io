@@ -55,8 +55,7 @@ albums is the addition of quite a bit of multitracking: recording one person
 over themselves. A few examples:
 
 1. Scott's harmonization with himself in the [second verse of "New Year's
-   Day"][ptx_new_years_day_scott_self_harmonization] and the [beginning of "If I
-   Ever Fall in Love"][ptx_if_i_ever_fall_in_love].
+   Day"][ptx_new_years_day_scott_self_harmonization].
 1. Kirstie's ad lib additions over her voice in the [last chorus of
    "Water"][ptx_water_kirstie_ad_lib].
 1. Miscellaneous background "ahhs" above the three-part solo harmony in the
