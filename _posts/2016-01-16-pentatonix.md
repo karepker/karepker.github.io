@@ -2,7 +2,7 @@
 layout: post
 title: _Pentatonix_ review
 subtitle: Pentatonix goes pop
-cover: /public/pentatonix_pentatonix_cover.jpg
+image: /public/pentatonix_pentatonix_cover.jpg
 description: "A review of Pentatonix's self-titled album, released 2015-10-16."
 tags:
   - criticism
