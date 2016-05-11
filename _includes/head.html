@@ -24,36 +24,6 @@
     {% endif %}
   </title>
 
-  <!-- Open graph tags -->
-  <meta property="og:url"
-      content="{{ site.url }}{{ site.baseurl }}{{ page.url }}"/>
-  <meta property="og:site_name" content="{{ site.title }}"/>
-  {% if page.title %}
-  <meta property="og:title"
-      content="{% include plaintext_page_title.html page=page %}"/>
-  {% else %}
-  <meta property="og:title" content="{{ site.title }}"/>
-  {% endif %}
-  {% if page.date %}
-  <meta property="og:type" content="article"/>
-  <meta property="article:published_time"
-      content="{{ page.date | date_to_xmlschema }}"/>
-  <meta property="article:author" content="https://www.facebook.com/karepker"/>
-  {% else %}
-  <meta property="og:type" content="website"/>
-  {% endif %}
-  {% if page.image %}
-  <meta property="og:image"
-      content="{{ site.url }}{{ site.baseurl }}{{ page.image }}"/>
-  {% else %}
-  <meta property="og:image" content=""/>
-  {% endif %}
-  {% if page.description %}
-  <meta property="og:description" content="{{ page.description }}"/>
-  {% else %}
-  <meta property="og:description" content="{{ site.description }}"/>
-  {% endif %}
-
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}/static/syntax.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/static/lanyon.css">
@@ -69,6 +39,8 @@
   <link rel="alternate" type="application/atom+xml" title="Feed"
       href="{{ site.baseurl }}/feed.xml">
 
-  <!-- Canonical link -->
-  <link rel="alternate" href="{{ site.url }}{{ page.url }}">
+  {% comment %}
+  Do not generate a title because I use the custom subtitle field for my posts
+  {% endcomment %}
+  {% seo title=false %}
 </head>
