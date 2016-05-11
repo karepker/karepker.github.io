@@ -1,6 +1,9 @@
 # Permalinks
 permalink: pretty
 
+gems:
+  - jekyll-seo-tag
+
 # Setup
 title: Kar Epker
 url: https://karepker.com
