@@ -24,7 +24,7 @@ layout: default
       <li>
         <h3>
 		  <a href="{{ site.baseurl }}{{ post.url }}">
-            {{ post.title }}
+            {% include page_title.html page=post %}
             <small>{{ post.date | date_to_string }}</small>
           </a>
         </h3>

@@ -1,0 +1,15 @@
+{% comment %}
+Appending the colon to the end of page.title when there is a subtitle is a hack
+that exists because liquid generates so much whitespace in output HTML. Without
+this, the string becomes `title` : `subtitle`.
+{% endcomment %}
+{% if include.page.title %}
+  {% if include.page.subtitle %}
+	{% assign page_title = include.page.title | append: ": " | markdownify %}
+	{% assign page_subtitle = include.page.subtitle | markdownify %}
+	{{ page_title }}{{ page_subtitle }}
+  {% else %}
+	{% assign page_title = include.page.title | markdownify %}
+	{{ page_title }}
+  {% endif %}
+{% endif %}
