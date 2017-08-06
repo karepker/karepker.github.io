@@ -27,7 +27,7 @@ layout: default
 		  <a href="{{ site.baseurl }}{{ post.url }}">
             {% include page_title.html page=post %}
           </a>
-          <small>{{ post.date | date_to_string }}</small>
+          <small>({{ post.date | date: '%Y-%m-%d' }})</small>
         </h3>
       </li>
     {% endfor %}

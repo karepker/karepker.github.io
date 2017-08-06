@@ -628,6 +628,9 @@ a.sidebar-nav-item:focus {
 .related-posts li a:hover small {
   color: inherit;
 }
+.related-posts p {
+  display: inline;
+}
 
 
 /*
