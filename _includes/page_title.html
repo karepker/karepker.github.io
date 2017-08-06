@@ -4,12 +4,9 @@ that exists because liquid generates so much whitespace in output HTML. Without
 this, the string becomes `title` : `subtitle`.
 {% endcomment %}
 {% if include.page.title %}
+  {% assign page_title = include.page.title %}
   {% if include.page.subtitle %}
-	{% assign page_title = include.page.title | append: ": " | markdownify %}
-	{% assign page_subtitle = include.page.subtitle | markdownify %}
-	{{ page_title }}{{ page_subtitle }}
-  {% else %}
-	{% assign page_title = include.page.title | markdownify %}
-	{{ page_title }}
+	{% assign page_title = page_title | append: ": " | append: include.page.subtitle %}
   {% endif %}
+  {{ page_title | markdownify }}
 {% endif %}
