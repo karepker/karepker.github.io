@@ -558,6 +558,12 @@ a.sidebar-nav-item:focus {
   margin: 0;
 }
 
+.post-content img {
+  height: 100%;
+  width: 100%;
+  object-fit: contain
+}
+
 .post-title-text {
   text-align: center;
   bottom: 2rem;
