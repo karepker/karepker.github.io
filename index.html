@@ -4,12 +4,14 @@ layout: default
 
 <div class="posts pad-sides">
   {% for post in site.posts %}
-    <div class="post-header">
-	  {% include post_header.html page=post %}
-	</div>
-	<div class="post-content">
-	  {{post.excerpt}}
+    <div class="post">
+      <div class="post-header">
+        {% include post_header.html page=post %}
+      </div>
+      <div class="post-content">
+        {{post.excerpt}}
+      </div>
+      <a href="{{ site.baseurl }}{{ post.url }}">Continue reading</a>
     </div>
-    <a href="{{ site.baseurl }}{{ post.url }}">Continue reading</a>
   {% endfor %}
 </div>
