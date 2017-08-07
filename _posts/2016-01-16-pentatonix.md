@@ -8,6 +8,8 @@ description: "A review of Pentatonix's self-titled album, released 2015-10-16."
 tags:
   - criticism
   - music
+redirect_from:
+  - /2016/01/16/pentatonix/
 ---
 
 _Pentatonix_ surprises me. For years, [Pentatonix has talked about their goal to

@@ -1,5 +1,5 @@
 # Permalinks
-permalink: pretty
+permalink: /:title/
 
 gems:
   - jekyll-seo-tag
