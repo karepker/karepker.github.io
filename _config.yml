@@ -3,6 +3,7 @@ permalink: pretty
 
 gems:
   - jekyll-seo-tag
+  - jekyll-redirect-from
 
 # Setup
 title: Kar Epker
