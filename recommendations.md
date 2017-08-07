@@ -73,7 +73,7 @@ toward solving the problem.
 [radiolab_blame]: http://www.radiolab.org/story/317421-blame/
 [ssc_trans]: http://slatestarcodex.com/2014/11/21/the-categories-were-made-for-man-not-man-for-the-categories/
 [ssc_triggers]: http://slatestarcodex.com/2014/05/30/the-wonderful-thing-about-triggers/
-[su3su2u1_methods_posts]: {{ site.baseurl }}/public/su3su2u1-hariezer-yudotter/
+[su3su2u1_methods_posts]: {{ site.baseurl }}/su3su2u1-hpmor/
 [why_go_is_not_good]: http://yager.io/programming/go.html
 [youtube_plinkett_playlist]: https://www.youtube.com/watch?v=FxKtZmQgxrI&list=PLWXQdJ1_d0vSgPFQEaxS9lYDIGwxM6p2B
 [wired_mat_honan_hacking]: http://www.wired.com/2012/08/apple-amazon-mat-honan-hacking/

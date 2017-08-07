@@ -7,6 +7,8 @@ Rationality_"
 tags:
   - criticism
   - writing
+redirect_from:
+  - /public/su3su2u1-hariezer-yudotter/
 ---
 
 ## Foreword
