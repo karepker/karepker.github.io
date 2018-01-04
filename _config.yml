@@ -1,7 +1,7 @@
 # Permalinks
 permalink: /:title/
 
-gems:
+plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
 
