@@ -12,14 +12,34 @@
          content to avoid any CSS collisions with our real content. -->
 	{% endcomment %}
     <div class="wrap">
-      <div class="masthead">
-        <div class="pad-sides">
-          <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+      <div class="masthead pad-sides">
+        <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
-          <h3 class="masthead-title">
-            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-          </h3>
-        </div>
+        <h3 class="masthead-title">
+          <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+        </h3>
+        <ul class="masthead-links">
+          {% assign pages_list = site.pages %}
+          {% for node in pages_list %}
+            {% if node.title != null %}
+              {% if node.layout == "page" %}
+                {% if page.url == node.url %}
+                  <li>
+                    <a class="active" href="{{ site.baseurl }}{{ node.url }}">
+                      {{ node.title }}
+                    </a>
+                  </li>
+                {% else %}
+                <li>
+                  <a href="{{ site.baseurl }}{{ node.url }}">
+                    {{ node.title }}
+                  </a>
+                </li>
+                {% endif %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+        </ul>
       </div>
 
       {{ content }}

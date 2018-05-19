@@ -310,11 +310,15 @@ tbody tr:nth-child(odd) th {
   padding-bottom: 1rem;
   margin-bottom: 3rem;
   border-bottom: 1px solid #eee;
+  display: flex;
+  justify-content: space-between;
+  vertical-align: top;
 }
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
+  display: inline-block;
 }
 .masthead-title a {
   color: #505050;
@@ -333,6 +337,14 @@ tbody tr:nth-child(odd) th {
   .masthead-title small {
     display: none;
   }
+}
+
+.masthead-links {
+  display: inline-block;
+  margin: 0;
+}
+.masthead-links li {
+  display: inline;
 }
 
 
