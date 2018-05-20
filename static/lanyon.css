@@ -22,6 +22,7 @@
  * Messages
  * Pad sides
  * Masthead
+ * Footer
  * Posts and pages
  * Pagination
  * Reverse layout
@@ -340,9 +341,9 @@ tbody tr:nth-child(odd) th {
 }
 
 /*
- * Masthead
+ * Footer
  *
- * Super small header above the content for site name and short description.
+ * Footer for licensing name and other links.
  */
 
 .footer {
