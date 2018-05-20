@@ -314,6 +314,9 @@ tbody tr:nth-child(odd) th {
 }
 
 @media (max-width: 48em) {
+  .masthead-title {
+    padding-bottom: 0.25em;
+  }
   .masthead-title small {
     display: none;
   }
