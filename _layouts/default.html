@@ -15,15 +15,12 @@
             {% if node.layout == "page" %}
               {% if page.url == node.url %}
                 <li>
-                  <a class="active" href="{{ site.baseurl }}{{ node.url }}">
-                    {{ node.title }}
-                  </a>
+                  <a class="active" href="{{ site.baseurl }}{{ node.url }}">{{
+                    node.title }}</a>
                 </li>
               {% else %}
               <li>
-                <a href="{{ site.baseurl }}{{ node.url }}">
-                  {{ node.title }}
-                </a>
+                <a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
               </li>
               {% endif %}
             {% endif %}
@@ -43,10 +40,10 @@
           </a>
         </div>
         <div class="license-text">
-          Unless otherwise noted, content on this site is licensed under a
-          <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">
-            Creative Commons Attribution 4.0 International License
-          </a>.
+          Unless otherwise noted, content on this site is licensed under a <a
+            rel="license"
+            href="https://creativecommons.org/licenses/by/4.0/">Creative Commons
+          Attribution 4.0 International License</a>.
         </div>
       </div>
       <div class="footer-item vertically-center">
