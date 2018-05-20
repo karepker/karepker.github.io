@@ -12,19 +12,16 @@
         <ul class="masthead-links">
           {% assign pages_list = site.pages %}
           {% for node in pages_list %}
-            {% if node.title != null %}
-              {% if node.layout == "page" %}
-                {% if page.url == node.url %}
-                  <li>
-                    <a class="active" href="{{ site.baseurl }}{{ node.url }}">{{
-                      node.title }}</a>
-                  </li>
-                {% else %}
+            {% if node.title != null and node.layout == "page" %}
+              {% if page.url == node.url %}
                 <li>
-                  <a href="{{ site.baseurl }}{{ node.url }}">{{ node.title
-                    }}</a>
+                  <a class="active" href="{{ site.baseurl }}{{ node.url }}">{{
+                    node.title }}</a>
                 </li>
-                {% endif %}
+              {% else %}
+              <li>
+                <a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+              </li>
               {% endif %}
             {% endif %}
           {% endfor %}
