@@ -4,59 +4,55 @@
   {% include head.html %}
 
   <body>
-    <div class="wrap">
-      <div class="masthead pad-sides">
-        <h3 class="masthead-title">
-          <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-        </h3>
-        <ul class="masthead-links">
-          {% assign pages_list = site.pages %}
-          {% for node in pages_list %}
-            {% if node.title != null %}
-              {% if node.layout == "page" %}
-                {% if page.url == node.url %}
-                  <li>
-                    <a class="active" href="{{ site.baseurl }}{{ node.url }}">
-                      {{ node.title }}
-                    </a>
-                  </li>
-                {% else %}
+    <div class="masthead pad-sides">
+      <h3 class="masthead-title">
+        <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+      </h3>
+      <ul class="masthead-links">
+        {% assign pages_list = site.pages %}
+        {% for node in pages_list %}
+          {% if node.title != null %}
+            {% if node.layout == "page" %}
+              {% if page.url == node.url %}
                 <li>
-                  <a href="{{ site.baseurl }}{{ node.url }}">
+                  <a class="active" href="{{ site.baseurl }}{{ node.url }}">
                     {{ node.title }}
                   </a>
                 </li>
-                {% endif %}
+              {% else %}
+              <li>
+                <a href="{{ site.baseurl }}{{ node.url }}">
+                  {{ node.title }}
+                </a>
+              </li>
               {% endif %}
             {% endif %}
-          {% endfor %}
-        </ul>
-      </div>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
 
-      {{ content }}
+    {{ content }}
 
-      <div class="footer pad-sides">
-        <div class="footer-item license">
-          <div class="vertically-center">
-            <a rel="license"
-              href="https://creativecommons.org/licenses/by/4.0/">
-              <img alt="Creative Commons License" style="border-width:0"
-                  src="https://i.creativecommons.org/l/by/4.0/88x31.png"/>
-            </a>
-          </div>
-          <div class="license-text">
-            Unless otherwise noted, content on this site is licensed under a
-            <a rel="license"
-              href="https://creativecommons.org/licenses/by/4.0/">
-              Creative Commons Attribution 4.0 International License
-            </a>.
-          </div>
-        </div>
-        <div class="footer-item vertically-center">
-          <a class="feed" href="{{ site.baseurl }}/feed.xml">
-            <img src="{{ site.baseurl }}/static/feed-icon.png"/>
+    <div class="footer pad-sides">
+      <div class="footer-item license">
+        <div class="vertically-center">
+          <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">
+            <img alt="Creative Commons License" style="border-width:0"
+                src="https://i.creativecommons.org/l/by/4.0/88x31.png"/>
           </a>
         </div>
+        <div class="license-text">
+          Unless otherwise noted, content on this site is licensed under a
+          <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International License
+          </a>.
+        </div>
+      </div>
+      <div class="footer-item vertically-center">
+        <a class="feed" href="{{ site.baseurl }}/feed.xml">
+          <img src="{{ site.baseurl }}/static/feed-icon.png"/>
+        </a>
       </div>
     </div>
 

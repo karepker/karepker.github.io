@@ -20,7 +20,6 @@
  * Global resets
  * Custom type
  * Messages
- * Wrapper
  * Pad sides
  * Masthead
  * Posts and pages
@@ -257,20 +256,6 @@ tbody tr:nth-child(odd) th {
   padding: 1rem;
   color: #717171;
   background-color: #f9f9f9;
-}
-
-
-/*
- * Wrapper
- *
- * The wrapper is used to position site content when the sidebar is toggled. We
- * use an outter wrap to position the sidebar without interfering with the
- * regular page content.
- */
-
-.wrap {
-  position: relative;
-  width: 100%;
 }
 
 
