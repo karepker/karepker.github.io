@@ -352,7 +352,11 @@ tbody tr:nth-child(odd) th {
 
 .footer-item {
 	display: inline-block;
-	font-size: 0.80em;
+	font-size: 0.75em;
+	padding: 0 1em;
+}
+.footer-item+.footer-item {
+  border-left: 1px solid #eee;
 }
 .footer-item.license {
 	display: flex;
