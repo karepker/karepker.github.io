@@ -309,6 +309,10 @@ tbody tr:nth-child(odd) th {
   display: inline;
 }
 
+.masthead-links li+li:before {
+  content: "·";
+}
+
 @media (max-width: 48em) {
   .masthead-title small {
     display: none;
