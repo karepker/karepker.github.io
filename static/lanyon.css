@@ -359,6 +359,34 @@ tbody tr:nth-child(odd) th {
   }
 }
 
+/*
+ * Masthead
+ *
+ * Super small header above the content for site name and short description.
+ */
+
+.footer {
+	display: flex;
+	justify-content: space-between;
+}
+
+.footer-item {
+	display: inline-block;
+	font-size: 0.80em;
+}
+.footer-item.license {
+	display: flex;
+}
+
+.license-text {
+	padding-left: 1em;
+}
+
+.vertically-center {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
 
 /*
  * Sidebar
