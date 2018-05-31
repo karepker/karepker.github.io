@@ -20,3 +20,6 @@ exclude: [Gemfile]
 kramdown:
   input: GFM
   hard_wrap: false
+
+sass:
+  style: compressed
