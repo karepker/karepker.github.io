@@ -15,7 +15,10 @@ author:
   name: 'Kar Epker'
   url: https://karepker.com
 
-exclude: [Gemfile]
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
 
 kramdown:
   input: GFM
