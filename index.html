@@ -6,7 +6,7 @@ layout: default
   {% for post in site.posts %}
     <div class="post">
       <div class="post-header">
-        {% include post_header.html page=post %}
+        {% include post_header.html page=post inline=true %}
       </div>
       <div class="post-content">
         {{post.excerpt}}

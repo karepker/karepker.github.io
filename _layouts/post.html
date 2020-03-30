@@ -12,7 +12,7 @@ layout: default
   {% else %}
     <div class="post-header pad-sides">
   {% endif %}
-  {% include post_header.html page=page %}
+  {% include post_header.html page=page inline=false %}
   </div>
   <div class="post-content pad-sides">{{ content }}</div>
 </div>
@@ -23,12 +23,8 @@ layout: default
   <ul class="related-posts">
     {% for post in site.related_posts limit:3 %}
       <li>
-        <h3>
-		  <a href="{{ site.baseurl }}{{ post.url }}">
-            {% include page_title.html page=post %}
-          </a>
-          <small>({{ post.date | date: '%Y-%m-%d' }})</small>
-        </h3>
+        <a href="{{ site.baseurl }}{{ post.url }}">{% include page_title.html page=post %}</a>
+        <small>({{ post.date | date: '%Y-%m-%d' }})</small>
       </li>
     {% endfor %}
   </ul>
