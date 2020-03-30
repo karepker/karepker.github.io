@@ -7,33 +7,13 @@
  * Revisions by karepker@.
  */
 
-
-/*
- * Contents
- *
- * Variables
- * Global resets
- * Custom type
- * Messages
- * Pad sides
- * Masthead
- * Footer
- * Posts and pages
- * Pagination
- */
-
-/*
- * Variables.
- *
- * Collection of repeated values in this stylesheet.
- */
-
 $medium-width: 38em;
 $wide-width: 56em;
+$page-background-color: #ffffff;
 $neutral-background-color: #f9f9f9;
-$heading-color: #313131;
 $border-color: #e5e5e5;
 $masthead-text-color: #505050;
+$secondary-text-color: #505050;
 
 /*
  * Global resets
@@ -53,21 +33,14 @@ body {
   padding: 0;
 }
 
-html {
-  font-family: Georgia, 'Times New Roman', serif;
-  font-size: 16px;
-  line-height: 1.5;
-}
-
 @media (min-width: $medium-width) {
   html {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
 body {
-  color: #373737;
-  background-color: #fff;
+  background-color: $page-background-color;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -86,45 +59,38 @@ a strong {
   color: inherit;
 }
 
-/* Headings */
-h1, h2, h3, h4, h5, h6 {
-  font-family: Helvetica, Arial, sans-serif;
-  font-weight: 400;
-  color: $heading-color;
-  letter-spacing: -.025rem;
-  margin-bottom: .5rem;
-  line-height: 1.25;
-  text-rendering: optimizeLegibility;
+/* Headings
+ *
+ * h1 is not included because it has special styling rules because it never
+ * appears inline with content.
+ */
+h2, h3, h4, h5, h6 {
+  font-family: sans-serif;
+  font-weight: normal;
+  margin: 1.0rem 0;
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 3rem;
+  font-weight: normal;
 }
 h2 {
-  margin-top: 1rem;
   font-size: 1.75rem;
 }
 h3 {
-  margin-top: 1.5rem;
   font-size: 1.4rem;
 }
 h4 {
-  margin-top: 1.225;
   font-size: 1.20rem;
 }
 h5, h6 {
-  margin-top: 1rem;
   font-size: 1rem;
 }
 
 /* Body text */
 p {
-  margin-top: 0;
+  margin-top: 0.5rem;
   margin-bottom: 1rem;
-}
-
-strong {
-  color: #303030;
 }
 
 /* Misc */
@@ -132,8 +98,8 @@ hr {
   position: relative;
   margin: 1.5rem 0;
   border: 0;
-  border-top: 1px solid #ccc;
-  border-bottom: 1px solid #fff;
+  border-top: 1px solid $border-color;
+  border-bottom: 0px;
 }
 
 abbr {
@@ -191,18 +157,14 @@ pre {
 
 /* Quotes */
 blockquote {
-  padding: .5rem 1rem;
-  margin: .8rem 0;
-  color: #5a5a5a;
-  border-left: .25rem solid $border-color;
-
-  p:last-child {
-    margin-bottom: 0;
-  }
+  padding-left: 0.6rem;
+  margin-left: 0.8rem;
+  margin-right: 0.8rem;
+  color: #333333;
+  border-left: 0.20rem solid $border-color;
 }
 @media (min-width: 30em) {
   blockquote {
-    padding-right: 5rem;
     padding-left: 1.25rem;
   }
 }
@@ -233,18 +195,6 @@ tbody tr:nth-child(odd) th {
 }
 
 /*
- * Custom type
- *
- * Extend paragraphs with `.lead` for larger introductory text.
- */
-
-.lead {
-  font-size: 1.25rem;
-  font-weight: 300;
-}
-
-
-/*
  * Messages
  *
  * Show alert messages to users. You may add it to single elements like a `<p>`,
@@ -257,7 +207,6 @@ tbody tr:nth-child(odd) th {
   color: #717171;
   background-color: $neutral-background-color;
 }
-
 
 /*
  * Pad sides
@@ -281,7 +230,6 @@ tbody tr:nth-child(odd) th {
   }
 }
 
-
 /*
  * Masthead
  *
@@ -289,26 +237,19 @@ tbody tr:nth-child(odd) th {
  */
 
 .masthead {
-  padding-top:    1rem;
-  padding-bottom: 1rem;
-  margin-bottom: 3rem;
-  border-bottom: 1px solid #eee;
+  margin-top: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid $border-color;
   vertical-align: top;
 }
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: $masthead-text-color;
+  font-size: 1.5rem;
+  font-family: sans-serif;
 
   a {
     color: $masthead-text-color;
-  }
-
-  small {
-    font-size: 75%;
-    font-weight: 400;
-    color: #c0c0c0;
-    letter-spacing: 0;
   }
 }
 
@@ -359,7 +300,8 @@ tbody tr:nth-child(odd) th {
   display: flex;
   justify-content: space-between;
   padding-top: 1rem;
-  border-top: 1px solid #eee;
+  padding-bottom: 1rem;
+  border-top: 1px solid $border-color;
 }
 
 .footer-item {
@@ -368,7 +310,7 @@ tbody tr:nth-child(odd) th {
   padding: 0 1em;
 
   + .footer-item {
-    border-left: 1px solid #eee;
+    border-left: 1px solid $border-color;
   }
 
   &.license {
@@ -390,7 +332,6 @@ tbody tr:nth-child(odd) th {
   justify-content: center;
 }
 
-
 /*
  * Posts and pages
  *
@@ -400,20 +341,30 @@ tbody tr:nth-child(odd) th {
 
 .page,
 .post {
-  margin-bottom: 4em;
+  margin-bottom: 2rem;
+}
+
+/* All inline elements in headers should be tighter together than they would be
+ * with the default formatting.
+ */
+.post-header p,
+.post-header h1,
+.page-header p,
+.page-header h1 {
+  margin: 0.5rem auto;
 }
 
 /* Page/Post header with and without cover images */
-.post-header,
-.page-header {
+.post-header, .page-header {
   width: 100%;
-  margin-bottom: 1rem;
+  margin: 1rem auto;
 }
 .post-header.has-cover {
   background-size: cover;
   background-position: 50% 50%;
   position: relative;
   height: 500px;
+  margin: 0;
   margin-bottom: 2rem;
 
   .post-title-text {
@@ -421,30 +372,9 @@ tbody tr:nth-child(odd) th {
   }
 }
 
-.post-header h1,
-.post-header h1 a,
-.post-header h2,
-.post-header h2 a {
-  color: $heading-color;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
-.post-header.has-cover h1,
-.post-header.has-cover h1 a,
-.post-header.has-cover h2,
-.post-header.has-cover h2 a {
-  color: #e0e0e0;
-}
-
 /* Remove margins on `p`s produced by markdownify in header. */
-.post-header p {
+.post-header h1 p {
   margin: 0;
-}
-
-.post-content img {
-  height: 100%;
-  width: 100%;
-  object-fit: contain
 }
 
 .post-title-text {
@@ -454,52 +384,51 @@ tbody tr:nth-child(odd) th {
   right: 0;
 }
 
-/* Blog post or page title */
-.page-title,
-.post-title,
-.post-title a {
-  font-size: 3rem;
-}
-.page-title,
-.post-title {
-  margin: 0 auto;
-}
-
 /* Page subtitle */
-.page-subtitle,
-.post-subtitle,
-.post-subtitle a {
+.page-subtitle, .post-subtitle {
   font-size: 1.5rem;
-}
-.page-subtitle,
-.post-subtitle {
-  margin-top: 0;
+  font-family: sans-serif;
+  color: $secondary-text-color;
 }
 
 /* Meta data line below post title and subtitle. */
 .post-author-date {
-  margin: 0 auto;
-  font-family: Helvetica, Arial, sans-serif;
-  color: #999;
+  font-family: sans-serif;
+  color: $secondary-text-color;
 }
+
+.has-cover {
+  .page-title, .post-title {
+    color: #e0e0e0;
+  }
+  .page-subtitle, .post-subtitle {
+    color: invert($secondary-text-color);
+  }
+  .post-author-date {
+    color: invert($secondary-text-color);
+  }
+}
+
+.post-content img {
+  height: 100%;
+  width: 100%;
+  object-fit: contain
+}
+
 
 /* Related posts */
 .related {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  border-top: 1px solid #ccc;
+  border-top: 1px solid $border-color;
 }
 .related-posts {
   padding-left: 0;
   list-style: none;
 
-  h3 {
-    margin-top: 0;
-  }
-
-  li small {
-    font-size: 75%;
-    color: #999;
+  li {
+    font-size: 1.2rem;
+    small {
+      font-size: 0.75rem;
+    }
   }
 
   p {
@@ -527,7 +456,7 @@ tbody tr:nth-child(odd) th {
 .pagination-item {
   display: block;
   padding: 1rem;
-  border: 1px solid #eee;
+  border: 1px solid $border-color;
 
   &:first-child {
     margin-bottom: -1px;
