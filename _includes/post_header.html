@@ -1,12 +1,12 @@
 <div class="post-title-text">
   <h1 class="post-title">
 	<a href="{{ site.baseurl }}{{ include.page.url }}">
-		{{ include.page.title | markdownify }}
+		{{- include.page.title | markdownify -}}
 	</a>
   </h1>
-  {% if include.page.subtitle != null %}
-    <h2 class="post-subtitle">{{ include.page.subtitle | markdownify }}</h2>
-  {% endif %}
+  {%- if include.page.subtitle != null -%}
+    <h2 class="post-subtitle">{{- include.page.subtitle | markdownify -}}</h2>
+  {%- endif -%}
   <h5 class="post-author-date">
     {{ include.page.date | date: '%Y-%m-%d' }} by
     {% include post_author.html post=include.page %}
