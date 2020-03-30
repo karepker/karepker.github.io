@@ -7,31 +7,31 @@
       content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
   <title>
-    {% if page.title %}
-      {% include plaintext_page_title.html page=page %}
-	  &middot; {{ site.title }}
-    {% else %}
-      {{ site.title }}
-    {% endif %}
+    {%- if page.title -%}
+      {%- include plaintext_page_title.html page=page -%}
+	  &middot; {{- site.title -}}
+    {%- else -%}
+      {{- site.title -}}
+    {%- endif -%}
   </title>
 
   <!-- CSS -->
-  <link rel="stylesheet" href="{{ site.baseurl }}/static/syntax.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/static/site.css">
+  <link rel="stylesheet" href="{{- site.baseurl -}}/static/syntax.css">
+  <link rel="stylesheet" href="{{- site.baseurl -}}/static/site.css">
 
   <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144"
-      href="{{ site.baseurl }}/static/apple-touch-icon-144-precomposed.png">
-  {% comment %}
-  <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.ico">
-  {% endcomment %}
+      href="{{- site.baseurl -}}/static/apple-touch-icon-144-precomposed.png">
+  {%- comment -%}
+  <link rel="shortcut icon" href="{{- site.baseurl -}}/public/favicon.ico">
+  {%- endcomment -%}
 
   <!-- Feed -->
   <link rel="alternate" type="application/atom+xml" title="Feed"
-      href="{{ site.baseurl }}/feed.xml">
+      href="{{- site.baseurl -}}/feed.xml">
 
-  {% comment %}
+  {%- comment -%}
   Do not generate a title because I use the custom subtitle field for my posts
-  {% endcomment %}
-  {% seo title=false %}
+  {%- endcomment -%}
+  {%- seo title=false -%}
 </head>
