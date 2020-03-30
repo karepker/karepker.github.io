@@ -9,10 +9,10 @@
     {%- endif include.inline -%}
   </h1>
   {%- if include.page.subtitle != null -%}
-    <h2 class="post-subtitle">{{- include.page.subtitle | markdownify -}}</h2>
+    <div class="post-subtitle">{{- include.page.subtitle | markdownify -}}</div>
   {%- endif -%}
-  <h5 class="post-author-date">
+  <div class="post-author-date">
     {{ include.page.date | date: '%Y-%m-%d' }} by
     {% include post_author.html post=include.page %}
-  </h5>
+  </div>
 </div>
