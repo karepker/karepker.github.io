@@ -42,7 +42,7 @@ Editor's notes are indicated by _[Ed. ...]_ blocks.
 
 ---
 
-### HPMOR Chapter 1
+### HPMOR Chapter 1 {#ch1}
 
 While at lunch, I dug into the first chapter of HPMOR.  A few notes:
 
@@ -65,7 +65,7 @@ is. Otherwise, this is basically an ok little chapter.  Harry and Father are
 skeptical magic could exist, so send a reply letter to Hogwarts asking for a
 professor to come and show them some magics.
 
-### Chapter 2, in which I remember why I hated this
+### Chapter 2, in which I remember why I hated this {#ch2}
 
 This chapter had me rolling my eyes so hard that I now I have quite the
 headache.  In this chapter, Professor McGonagall shows up and does some magic,
@@ -186,7 +186,7 @@ described).  It feels like the author wants us to say 'what a clever bit of
 writing' when it works, and to say 'what a pretentious narrating character' when
 it fails.
 
-### HPMOR Chapter 3, uneventful, inoffensive
+### HPMOR Chapter 3, uneventful, inoffensive {#ch3}
 
 This chapter is worse than the previous chapters.  As Hariezer (I realize this
 portmanteau isn't nearly as clever as I seem to think it is, but I will continue
@@ -254,7 +254,7 @@ pages.
 The key here is that this is about ideas, and writing, not about the man
 himself.  Its important to keep those things separate.
 
-### Chapter 4 - In which, for the first time, I wanted the author to take things further
+### Chapter 4 - In which, for the first time, I wanted the author to take things further {#ch4}
 
 So first, I actually like this chapter more than the previous few, because I
 think its beginning to try to deliver on what I want in the story.  And now, my
@@ -324,7 +324,7 @@ Its a nitpick, sure, but the story thus far is loaded with such nits.
 
 Chapter summary- Harry goes to gringots, takes out money.
 
-### Chapter 5 - In which the author assures us repeatedly this chapter is funny
+### Chapter 5 - In which the author assures us repeatedly this chapter is funny {#ch5}
 
 This chapter is, again, mostly inoffensive, although there is a weird tonal
 shift.  The bulk of this chapter is played broadly for laughs.  There is
@@ -378,7 +378,7 @@ hear Malfoy utter some absurdities, Harry tells her
 Luckily, Hariezer gets cut off before he starts explaining what a joke is.
 Chapter summary- Hariezer buys robes, talks to Malfoy.
 
-### Chapter 6- Yud lets it all hang out
+### Chapter 6- Yud lets it all hang out {#ch6}
 
 The introduction suggested that the story really gets moving after chapter 5.
 If this is an example of what "really moving" looks like, I fear I'll soon stop
@@ -585,7 +585,7 @@ wants to be stronger, more powerful, take over the world, but he doesn't seem to
 care what the answers are.  Its all well and good to be driven, but most
 importantly, you have to be curious.
 
-### Chapter 8 - Back to the Inoffensive Chapters of Yesteryear
+### Chapter 8 - Back to the Inoffensive Chapters of Yesteryear {#ch8}
 
 _[Ed. Full (?) post salvaged from [kai-skia's
 tumblr][kai-skai_i_as_usual].]_
@@ -608,7 +608,7 @@ does this serve?).
 
 [...]
 
-### Chapters 9 and 10
+### Chapters 9 and 10 {#ch9-10}
 
 _[Ed. Full (?) post salvaged from [thinkingornot's
 tumblr][thinkingornot_actually_the_hat].]_
@@ -649,7 +649,7 @@ summary- Harry gets sorted into ravenclaw.
 I am immensely frustrated that I'm 10 chapters into this thing, and we still
 don't have any experiments regarding the rules of magic.
 
-### Chapter 18 - What?
+### Chapter 18 - What? {#ch18}
 
 _[Ed. partially recovered via
 [kai-skai's tumblr post][kai-skai_chapter_18_what_uh_i_have]]_
@@ -670,7 +670,7 @@ potions teacher.
 
 [...]
 
-### Ideas Around Chapter 19
+### Ideas Around Chapter 19 {#ch19}
 
 In light of the recent anon, I'm going to attempt to give the people (person?)
 what they want. Also, I went from not caring if people were reading this, to
@@ -691,7 +691,7 @@ actually lose at something. Instead he gets ordered to lose, and he isn't
 ordered to lose at something in his wheel house, but in the "jock-stuff"
 repeatedly sneered at in the story (physical confrontation)
 
-### Chapter 20- Why is this chapter called Bayes Theorem?
+### Chapter 20- Why is this chapter called Bayes Theorem? {#ch20}
 
 A return to what passes for "normal." No child beating in this chapter, just a
 long, boring conversation.
@@ -823,7 +823,7 @@ I sort of thought the whole point of a horcrux was that if you died, there is a
 copy of you out there that can posses some poor sod like Quirrell if he got to
 close.  What good is a horcrux that can never find another human?
 
-### Chapter 21- Secretive Science
+### Chapter 21- Secretive Science {#ch21}
 
 So this chapter begins quite strangely- Hermione is worried that she is "bad"
 because she is enjoying being smarter than Hariezer.  She then decides that she
@@ -870,7 +870,7 @@ Its weird to use them both as author mouthpieces.  The Bayesian Conspiracy is
 obviously an idea Yudkowsky is fond of, and here Hariezer gets the idea largely
 from Quirrell just one chapter back.
 
-### Chapter 22- Science!
+### Chapter 22- Science! {#ch22}
 
 This chapter opens strongly enough.  Hariezer decides that the entire wizarding
 world has probably been wrong about magic, and don't know the first thing about
@@ -952,7 +952,7 @@ talking to portraits.
 
 Still, finally some science, even if half of it was infuriating.
 
-### Chapter 23- Wizarding genetics made (way too) simple
+### Chapter 23- Wizarding genetics made (way too) simple {#ch23}
 
 Alright, I need to preface this: I have the average particle physicists
 knowledge of biology (a few college courses, long ago mostly forgotten).  That
@@ -1112,7 +1112,7 @@ the story has no real structure.  Its just a series of poorly paced (if you
 strip out the "awesome" conversations, then there are many chapters where
 nothing happens), disconnected events.  There is no there there.
 
-### Chapter 24- Evopsych Rorschach test
+### Chapter 24- Evopsych Rorschach test {#ch24}
 
 Evolutionary psychology is a field that famously has a pretty poor bullshit
 filter.  Satoshi Kanazawa once published a series of articles that beautiful
@@ -1168,7 +1168,7 @@ but smack in the middle we get this rumination:
 What does his preferred explanation for the origin of intelligence (people
 evolved to outwit each other) say about the author?
 
-### Chapter 24/25/26 - Mangled Narratives
+### Chapter 24/25/26 - Mangled Narratives {#ch24-26}
 
 This chapter is going to be entirely about the way the story is being told in
 this section of chapters.  There is a big meatball of a terrible idea, but I'm
@@ -1417,7 +1417,7 @@ just presenting conjecture and hypothesis as settled science.  Still I learned
 something here, I'd never encountered this idea before.  I'll have an actual
 post about chapter 27 tomorrow.
 
-### Chapter 27 - Mostly Retreads
+### Chapter 27 - Mostly Retreads {#ch27}
 
 This is another chapter where most of the action is stuff that has happened
 before, we are getting more and more retreads.
@@ -1471,7 +1471,7 @@ curiosity, they are power.  This was true after chapter 10, its still true now.
 This is the only real action for several chapters now, unfortunately all the
 action feels like its already happened before in other chapters.
 
-### Chapter 28- Hacking Science/Map-territory
+### Chapter 28- Hacking Science/Map-territory {#ch28}
 
 Finally we get back to some attempts to do magi-science, but its again deeply
 frustrating.  Its more transfiguration- the only magic we have thus far
@@ -1619,7 +1619,7 @@ useful link.]_ I mentioned that Yudkowsky was using his "comed-tea" magical
 invention as a backdoor future-causes-the-past idea.  I'd bet a lifetime of
 scotch timeless decision theory shows up before this thing is done.
 
-### Chapter 29- Not Much Here
+### Chapter 29- Not Much Here {#ch29}
 
 Someone called Yudkowsky out on the questionable decision to include his pet
 theories as established science, so chapter 29 opens with this (why didn't he
@@ -1646,7 +1646,7 @@ the world, the core plot of Prisoner of Azkaban (Scabbers the rat was really
 Peter Petigrew) was just a delusion that a schizophrenic Weasley brother had.
 Just a stupid swipe at the original book for no real reason.
 
-### Chapter 30-31 - Credit Where Credit is Due
+### Chapter 30-31 - Credit Where Credit is Due {#ch30-31}
 
 So credit where credit is due- these two chapters are pretty decent.  We finally
 get some action in a chapter, there is only one bit of wrongish science, and the
@@ -1747,12 +1747,12 @@ group habits, group names, group customs, and then setting the groups to
 directly competing for scarce prizes (while researchers encourage the growth of
 conflicts) will cause conflicts.  This isn't just a subtlety.
 
-### Chapter 32- Interlude
+### Chapter 32- Interlude {#ch32}
 
 Chapter 32 is just a brief interlude, nothing here really, just felt the need to
 put this in for completeness.
 
-### Chapter 33- it worked so well the first time, might as well try it again
+### Chapter 33- it worked so well the first time, might as well try it again {#ch33}
 
 This chapter has left me incredibly frustrated.  After a decent chapter, we get
 a terrible retread of the same thing.  For me, this chapter failed so hard that
@@ -1911,7 +1911,7 @@ I'll probably not respond to everything, for fear of creating an infinite chain
 of tangents, but if you feel there is anything egregious, and people who read my
 tumblr need a second opinion, let me know and I'll be sure to reblog it.
 
-### Chapter 34-35 Aftermath of the War Game
+### Chapter 34-35 Aftermath of the War Game {#ch34-35}
 
 These chapters contain a lot of speechifying, but in this case it actually fits,
 as a resolution to the battle game.  Its expected and isn't overly long.
@@ -1980,7 +1980,7 @@ Hariezer's attitude and lack of knowledge repeatedly remind me of the worst
 students I ever had- smart kids too arrogant to learn (and these were physics
 classes, where wrong or right is totally objective).
 
-### Chapter 36/37 - Christmas Break/Not much happens
+### Chapter 36/37 - Christmas Break/Not much happens {#ch36-37}
 
 Like all the Harry Potter books, Yudkowsky includes a Christmas break.  I note
 that a Christmas break would make a lot of sense toward the middle of the book,
@@ -1994,14 +1994,14 @@ Hermione and Hariezer are like an old married couple (it would have been nice to
 see the little bonding moments in the earlier chapters).  Quirrell visits
 Hariezer on Christmas Eve.
 
-### Chapter 38 - a cryptic conversation, not much here
+### Chapter 38 - a cryptic conversation, not much here {#ch38}
 
 This whole chapter is just a conversation between Malfoy and Hariezer.  It fits
 squarely into the "one party doesn't really know what the conversation is about"
 mold, with Hariezer being the ignorant party.  Malfoy is convinced Hariezer is
 working with someone other than Quirrell or Dumbledore.
 
-### Chapter 39- your transhumanism is showing
+### Chapter 39- your transhumanism is showing {#ch39}
 
 This was a rough chapter, in which primarily Hariezer and Dumbledore have an
 argument about death.  Hariezer takes up the transhumanist position.  If you
@@ -2144,12 +2144,12 @@ Its just a ludicrous series of events, everyone is acting insane.
 As I said earlier, I'll always read responses, but only rarely reply to them.  I
 don't want to send things to far down tangents.
 
-### Chapter 40- Short Follow Up to 39
+### Chapter 40- Short Follow Up to 39 {#ch40}
 
 Instead of Dumbledore's views, in this chapter we get Quirrell's view of death.
 He agrees with Hariezer, unsurprisingly.
 
-### Chapter 41- Another round of Quirrell's battle game
+### Chapter 41- Another round of Quirrell's battle game {#ch41}
 
 It seems odd that AFTER the culminating scene, the award being handed out, and
 the big fascist vs. freedom speechifying that we have yet another round of
@@ -2168,7 +2168,7 @@ time, it opens with
 We then get a narrator summary of the battle that had lead up that moment.
 Again, tell, tell, tell never show.
 
-### Chapter 42- Is there a point to this?
+### Chapter 42- Is there a point to this? {#ch42}
 
 Basically an extraneous chapter, but one strange detail at the end.
 
@@ -2195,7 +2195,7 @@ Anyway, this one is pretty terrible so I thought I'd read it and complain about
 it on the internet.... So I'm listening to me say this out loud and it sounds
 ridiculous, but.. well, it IS ridiculous... but..."
 
-### Chapter 43-46 Subtle Metaphors
+### Chapter 43-46 Subtle Metaphors {#ch43-46}
 
 These chapters actually moved pretty decently.  When Yudkowsky isn't writing
 dialogue, his prose style can actually be pretty workman-like.  Nothing that
@@ -2237,7 +2237,7 @@ IS DEATH.  Humans defeat death._  Very subtle.
 
 Another large block of chapters with no science.
 
-### Chapter 47 Racism is Bad
+### Chapter 47 Racism is Bad {#ch47}
 
 Nothing really objectionable here, just more conversations and plotting.
 
@@ -2253,7 +2253,7 @@ like it'll end up being more plots-within-plots stuff.
 Another chapter with no science explored. We do find out Hariezer speaks snake
 language.
 
-### Chapter 48 - Utilitarianism
+### Chapter 48 - Utilitarianism {#ch48}
 
 This chapter is actually solid as far as these things go.  After learning he can
 talk to snakes Hariezer begins to wonder if all animals are sentient, after all
@@ -2355,14 +2355,14 @@ If anyone knows of further literature on this, feel free to pass it my way.
 ... is a 12 chapter block.  I have a fresh bottle of lagavulin and I'm caught up
 on work.  LETS DO THIS.
 
-### Chapter 49- Not much here
+### Chapter 49- Not much here {#ch49}
 
 I thought I posted something about this last weekend, I think tumblr are it.  So
 this will be particularly light.  Hariezer notices that Quirrell knows too much
 (phrased as "his priors are too good") but hasn't yet put it together that
 Quirrell.
 
-### Chapter 50- In Need of an Editor
+### Chapter 50- In Need of an Editor {#ch50}
 
 So this is basically a complete rehash again- it fits into the "Hariezer uses
 the time turner and the invisibility cloak to solve bullying" mold we've already
@@ -2391,7 +2391,7 @@ begins to figure out the rules of magic?
 What I'm looking for are the explorations of the "physics of magic" of this
 world Yudkowsky has created.  So far, there has been very little of this, maybe
 
-### Chapter 51-63 Economy of Language
+### Chapter 51-63 Economy of Language {#ch51-63}
 
 So this block of chapters is roughly the length of the Maltese Falcon or the
 first Harry Potter book, probably 2/3 the length of the Hobbit.  This one
@@ -2471,7 +2471,7 @@ Harry Potter were a scientist, and used the scientific method to explore magic!"
 
 Why do people advertise the story like this?
 
-### Chapter 64/65 Respite
+### Chapter 64/65 Respite {#ch64-65}
 
 Chapter 64 is again "omake" so I didn't read it.
 
@@ -2499,7 +2499,7 @@ in.
 
 Time to start reading some HPMOR.  Hopefully updates tomorrow.
 
-### Chapter 66-77 Absolutely, appallingly awful
+### Chapter 66-77 Absolutely, appallingly awful {#ch66-77}
 
 There is a general problem with fanfiction (although usually not in serial
 fiction where things tend to stay a bit more focused for whatever reason), where
@@ -2902,7 +2902,7 @@ TIME SAYING THINGS PEOPLE ALREADY KNOW?" that has been making it hard to read
 
 Hopefully this pushes me over that hump.
 
-### Chapter 78- Action Without Consequences
+### Chapter 78- Action Without Consequences {#ch78}
 
 A change of tactics- this is chapter is part of another block of chapters, but
 I'm having trouble getting through it, so I'm going to write in installments
@@ -3129,7 +3129,7 @@ up on some work.
 
 Probably not.  Finishing HPMOR has been proving to be quite a chore
 
-### HPMOR chapter 79
+### HPMOR chapter 79 {#ch79}
 
 This chapter continues on from 78.  Hermione has been arrested for murder, but
 Hariezer now realizes in a sudden insight that she has given a false memory.
@@ -3222,7 +3222,7 @@ after a three semesters and switched to physics), so I bounced around through a
 wide variety of classes.  Basically, ask lots of questions, read a lot,etc.
 Standard stuff really.
 
-### HPMOR Chapter 80
+### HPMOR Chapter 80 {#ch80}
 
 Apparently in the wizarding world, the way a trial is conducted involves a bunch
 of politicians voting if someone is guilty or innocent, so in this chapter the
@@ -3256,7 +3256,7 @@ be the subjects of moral judgment. He is a PC, and they are wallpaper.
 Hermione is convicted and Hariezer is sad he couldn't figure out something to do
 about it (he did try to threaten the elder Malfoy to no avail).
 
-### HPMOR Chapter 81
+### HPMOR Chapter 81 {#ch81}
 
 Our last chapter ended with Hermione in peril- she was found guilty of the
 attempted murder of Draco!  How will Hariezer get around this one?
@@ -3362,7 +3362,7 @@ and removing all the unfired chekhov's guns,etc), but right now it feels like a
 first-draft of something.  Professional editing is a thing for a very good
 reason.
 
-### HPMOR Chapter 82
+### HPMOR Chapter 82 {#ch82}
 
 So the trial is wrapped up, but to finish off the section we get a long
 discussion between Dumbledore and Hariezer.
@@ -3722,7 +3722,7 @@ Hariezer asks no questsions, for instance).
 I don't buy this theory, really.  But then again I've never lived in someone
 elses head while they read.  Does anyone else want to weigh in?
 
-### HPMOR Chapter 83-84
+### HPMOR Chapter 83-84 {#ch83-84}
 
 These are just rehashes of things we've already been presented with (so many
 words, so little content).  The other students still think Hermione did it
@@ -4459,7 +4459,7 @@ the power tools analogy, it's more like there being some really good tools out
 there that are not very intuitive to use.  You're free to learn to use them,
 it's just that inevitably, fewer people do.)
 
-### hpmor chapter 85
+### hpmor chapter 85 {#ch85}
 
 A return to my blogging obsession of old (which has been a slog for at least 20
 chapters now, but if there is one thing that is true of all phds- we finish what
@@ -4573,7 +4573,7 @@ and that doesn't even break any rules.
 If the moral of the story ends up being that we should stop doing science
 because of the risk, I'm going to have more grounds on which to hate the story.
 
-### hpmor chapter 86
+### hpmor chapter 86 {#ch86}
 
 I just realized I have like 145 followers (HOLY SHIT!) and they probably came
 for the HPMOR thing.  So I better keep the updates rolling!
@@ -4697,7 +4697,7 @@ Anyway, 86 chapters to go, I think this damn thing is going to clock in around
 120 when all is said and done.  ::sigh:: Time for a scotch.
 
 
-### hpmor 87 skinner box your friends
+### hpmor 87 skinner box your friends {#ch87}
 
 Hariezer is worried Hermione will be uncomfortable around him after the trial.
 So what is his solution?
@@ -4783,7 +4783,7 @@ Probably not.  I'm making forward progress, but you know, "real" work, personal
 projects, etc.  I won't rule it out completely, and I'll probably be close but
 I'm not going to commit to it.
 
-### HPMOR chapter 88. In which I complain about a lack of time turners
+### HPMOR chapter 88. In which I complain about a lack of time turners {#ch88}
 
 The problem with solving every problem in your story with time turners is that
 it becomes incredibly conspicuous when you don't solve a problem with time
@@ -4854,7 +4854,7 @@ Anyway, he rushes off the Weasley twins to go find Hermione, and just as he
 finds her the chapter ends.  I look forward to tuning in next time for the
 thrilling conclusion.
 
-### HPMOR Chapter 89 grimdark
+### HPMOR Chapter 89 grimdark {#ch89}
 
 There will be spoilers ahead.  Although if you cared about spoilers why are you
 reading this?
@@ -4887,7 +4887,7 @@ I get sort of irrationally angry at everything.
 
 Or maybe thats the scotch.
 
-### HPMOR Chapter 90 Hariezer's lack of self reflection
+### HPMOR Chapter 90 Hariezer's lack of self reflection {#ch90}
 
 Brief note- it's mardi gras, and I'm about as over served as I ever have been. I
 LIKE HOW OVER SERVED AS A PHRASE BLAMES THE BARTENDER AND NOT ME. THIS IS A
@@ -5063,19 +5063,19 @@ I think a lot of readers feel the same tension I feel, but are more willing to
 resolve the tension by assuming Harry in the story is wrong about something, or
 just being a kid,etc.
 
-### HPMOR Chapter 91
+### HPMOR Chapter 91 {#ch91}
 
 Total retread of the last chapter.  Hariezer is still blaming himself, Snape
 tries to talk to him. They bring his parents in to try to talk to him.  Nothing
 here really.
 
-### HPMOR Chapter 92
+### HPMOR Chapter 92 {#ch92}
 
 Really, still nothing here.  Quirrell is also concerned about Hariezer, but as
 before his concern seems less than totally genuine.  I fear this arc is
 basically just a lot of retreads.
 
-### HPMOR Chapter 93
+### HPMOR Chapter 93 {#ch93}
 
 Still very little going on in these chapters...
 
@@ -5107,7 +5107,7 @@ school for magic users, that is probably a necessity.
 
 Also, Hermione's body has gone missing.  I suspect Hariezer is cryonicsing it.
 
-### HPMOR Chapter 94
+### HPMOR Chapter 94 {#ch94}
 
 This is the best chapter of this "reflect on what just happened" giant block of
 chapters, but that's not saying much.
@@ -5227,7 +5227,7 @@ imprinted on Hariezer.
 I've been in a bad mood for a few days and realized today it was my attempt to
 read more HPMOR to get caught up... ::sigh:: this fucking story...
 
-### HPMOR Chapter 95
+### HPMOR Chapter 95 {#ch95}
 
 So the chapter opens with more incuriousness, which is the rest of the chapter
 in miniature:
@@ -5292,7 +5292,7 @@ way to explore a question.  It's not even producing a very interesting story.
 Quirrell assumes Hariezer might end the world even though he has shown 0
 aptitude with any magic even approaching dangerous...
 
-### HPMOR 96 More of the same
+### HPMOR 96 More of the same {#ch96}
 
 Remus takes Hariezer to Godric's Hollow to try to cheer him up or whatever.
 
@@ -5337,7 +5337,7 @@ by thinking really hard about how much death sucks _and doing nothing else."_
 
 Pretty much, yes.
 
-### Chapter 97 plot points resolved arbitrarily
+### Chapter 97 plot points resolved arbitrarily {#ch97}
 
 nNext on the list to talk with Hariezer regarding Hermione's death? The Malfoys
 who call Hariezer to Gringotts under the pretense of talking about Hariezer's
@@ -5369,7 +5369,7 @@ some sort of multi-level plot.
 
 I'm so bored.
 
-### Chapter 98- This block is nearly over!
+### Chapter 98- This block is nearly over! {#ch98}
 
 The agreement put in place in the previous chapter is enacted.
 
@@ -5393,7 +5393,7 @@ referenced the first:
 
   > "Remind me to buy you a copy of the Muggle novel Atlas Shrugged,"
 
-### HPMOR Chapter 99
+### HPMOR Chapter 99 {#ch99}
 
 This chapter is literally one sentence long. Unicorn died at Hogwarts.  Why not
 just slap it into the previous chapter?
@@ -5546,7 +5546,7 @@ true much later, without ever having done any investigation.
 Harry Potter and the Method of Having Your Conjectures Always Be Right WIthout
 Doing Any Work.
 
-### HPMOR Chapter 100
+### HPMOR Chapter 100 {#ch100}
 
 Remember that mysterious bit about the unicorns dying? That merited a whole
 one-sentence chapter?  Luckily, it's totally resolved in this chapter.
@@ -5627,7 +5627,7 @@ aren't ok with the side effects of certain life-preserving treatments.
 This feels again like canon is fighting the transhumanist message the author
 wants to insert.
 
-### HPMOR chapter 101
+### HPMOR chapter 101 {#ch101}
 
 Still in the woods, Hariezer encounters a centaur who tries to kill him, because
 he divines that Hariezer is going to make all the stars die.
@@ -5684,7 +5684,7 @@ nothing that talk."
 
 Harry Potter and the Methods of Expository Dialogue.
 
-### HPMOR chapter 102 open borders and death spells
+### HPMOR chapter 102 open borders and death spells {#ch102}
 
 Quirrell is still dying, Hariezer brings him a unicorn he turned into a stone.
 
@@ -5754,7 +5754,7 @@ So you can't kill your loved ones! Big limitation!
 Also, Hariezer "99% of the fucking planet is NPCs" Yudotter isn't indifferent to
 anyone?  I call BS.
 
-### Chapter 103 Very Punny
+### Chapter 103 Very Punny {#ch103}
 
 Credit where credit is due, this whole chapter sets up a pretty clever pun.
 
@@ -5879,7 +5879,7 @@ I'll probably take a break from rationalist fic reading.  I'd like to finish up
 the quantum posts I've been writing, and after that who knows.  Maybe I'll talk
 about a book I actually like.
 
-### Chapter 104 Plot threads hastily tied up/also some nonsense
+### Chapter 104 Plot threads hastily tied up/also some nonsense {#ch104}
 
 So this chapter opens with a quidditch game, in an attempt to wrap up an earlier
 plot thread- Quirrell's reward for his battle game (a reward given out back in
@@ -5970,7 +5970,7 @@ the scent if he got caught?)
 Anyway, this pivotal plot moment seems to _rely entirely on the fact that
 Hariezer forgot his own coded note system?_
 
-### HPMOR Chapter 105
+### HPMOR Chapter 105 {#ch105}
 
 So Quirrell gets Hariezer to cooperate with him, by threatening students, and
 offering to resurrect Hermione if he gets the philosopher's stone
@@ -5997,7 +5997,7 @@ everything.  Always a good sign when the villain does _apparently nothing_ for
 90 or so out of 100 chapters, and then explains the significance of everything
 at the very end.
 
-### HPMOR 106
+### HPMOR 106 {#ch106}
 
 Not much happens here, Quirrell kills the 3 headed cerberus to get past the
 first puzzle.  When Hariezer points out that might have alerted someone,
@@ -6005,7 +6005,7 @@ Quirrell is all "eh, I fucked all the wards up."
 
 So I guess more time to go before we get the villain monologue chapter.
 
-### Chapter 107 still no monologue
+### Chapter 107 still no monologue {#ch107}
 
 Still no villain monologue.  Quirrell and Hariezer encounter the other puzzles
 from the book, and Quirrell blasts them to death with magic fire rather than
@@ -6023,7 +6023,7 @@ puzzle seems like a contrived way to drop the monologue we know is coming next
 chapter or so into the story) _When things are happening,_ HPMOR can be decently
 written.
 
-### HPMOR Chapter 108 monologue
+### HPMOR Chapter 108 monologue {#ch108}
 
 So we get the big "explain everything" monologue, and it's kind of a let down?
 
@@ -6091,7 +6091,7 @@ supposed to work, didn't have any of Voldemort's memories up until that time?  I
 expect we are supposed to chalk it up to "the spell didn't quite work because of
 the resonance that blew everything up" or whatever.
 
-### Chapter 109 supreme author wank
+### Chapter 109 supreme author wank {#ch109}
 
 We get to the final mirror, and we get this bit of author wank:
 
@@ -6132,7 +6132,7 @@ all that.
 
 Anyway, after Voldemort gets the stone, Dumbledore shows up.
 
-### Chapter 110
+### Chapter 110 {#ch110}
 
 Apparently Dumbledore was going to use the mirror as a trap to banish Voldemort.
 But when he saw Hariezer was with him, Dumbledore sacrificed himself to save
@@ -6272,7 +6272,7 @@ And I kind of don't get how Hariezer's solution worked?  He turned the ground
 near his wand into spider silk, but how did he get it around everyone's neck?
 Why did he make it spider silk before turning it into nanowire?
 
-### HPMOR Chapter 111
+### HPMOR Chapter 111 {#ch111}
 
 So in this chapter, Hariezer is stripped of wand, pouch and time turner, and
 Voldemort has the philosopher's stone.  It's looking pretty bad for our hero.
@@ -6310,7 +6310,7 @@ retrieved it to get the diary).
 While Voldemort is distracted making the horcrux, Hariezer whips a gun out of
 the pouch and shoots Voldemort.  Something tells me it didn't work.
 
-### HPMOR 112
+### HPMOR 112 {#ch112}
 
 Not surprisingly, the shots did nothing to Voldemort who apparently can create a
 wall of dirt faster than a bullet travels.  Apparently it was a trick, because
@@ -6478,7 +6478,7 @@ of fantasy conventions into sharp relief for me, and then it uses them anyway.
 I wouldn't have noticed half the problems I see if the text itself didn't point
 them out.
 
-### HPMOR Chapter 113
+### HPMOR Chapter 113 {#ch113}
 
 This is a short chapter, Hariezer is still in peril.    As Voldemort's death
 eaters pop in, one of them tries to turn against him but Voldemort kills him
@@ -6543,7 +6543,7 @@ Try to come up with your own outlandish solution.  The thing is, _all of these
 work_ because we don't really know the rules of HPMOR magic- we have a rough
 outline, but there is still a lot of author flexibility.  So there is that.
 
-### HPMOR 114 Solutions to the exam
+### HPMOR 114 Solutions to the exam {#ch114}
 
 Hariezer transfigures part of his wand into carbon nanotubes that he makes into
 a net around each death eater's head and around voldemort's hands.
@@ -6668,7 +6668,7 @@ mysterious things I can think of (Quirrell, Hariezer's dark side), we already
 knew the answers from reading the original books.  I think it's dramatic irony,
 not really a mystery.
 
-### HPMOR 115-116-117
+### HPMOR 115-116-117 {#ch115-117}
 
 Throughout the story, whenever there is action we then have 5-10 chapters where
 everyone digests what happened.  These chapters all fit in that vein.
@@ -6793,7 +6793,7 @@ up, please tell me so I can edit in correct science.
 
 Other than that, I've made my case as much as I want to.
 
-### HPMOR chapter 118
+### HPMOR chapter 118 {#ch118}
 
 The story is still in resolution mood, and I want to point out one thing that
 this story does right that the original books failed at- which is _an actual
@@ -6809,7 +6809,7 @@ This chapter is Quirrell's funeral, which is mostly a student giving a long
 eulogy (remember, Hariezer dressed things up to make it look like Quirrell died
 fighting Voldemort, which is sort of true, but not the Quirrell anyone knew.)
 
-### HPMOR Chapter 119
+### HPMOR Chapter 119 {#ch119}
 
 Still in resolution mode.
 
@@ -6843,7 +6843,7 @@ And Hariezer puts a plan in place to open a hospital using the philsophers
 stone, so BAM, death is defeated, at least in the wizarding world.  Unless it
 turns out the stone has limits or something.
 
-### HPMOR Chapter 120
+### HPMOR Chapter 120 {#ch120}
 
 More resolution.
 
@@ -6894,7 +6894,7 @@ Atlantis-based-source-of-magic, but he never tries to find out if that's the
 case.  He deduces that magical creatures are just cursed humans, but never tries
 to verify it, never tries to study them,etc.
 
-### HPMOR chapter 221
+### HPMOR chapter 221 {#ch121}
 
 Snape leaves hogwarts, thus completing an arc I don't think I ever cared about.
 
@@ -6912,7 +6912,7 @@ Of which chapter?
 It's true.  After I criticize HPMOR I drown cute puppies in my sink, just to
 feel something.
 
-### HPMOR Chapter 122 the end of the beginning
+### HPMOR Chapter 122 the end of the beginning {#ch122}
 
 So unlike the canon books, the end of HPMOR sets it up more as an origin story
 than a finished adventure.  After the canon books, we get the impression Harry,
@@ -6952,7 +6952,7 @@ Also, many of Hariezer's personal anecdotes (26 hour sleep cycle, biting a
 teacher,etc) are Yudkowsky's.  And Hariezer has the idea to fund wizard CFAR and
 (essentially) wizard MIRI at the end of the story.
 
-### HPMOR Full Review (draft)
+### HPMOR Full Review (draft) {#review}
 
 I opened up a bottle of delicious older-than-me scotch when Terry Pratchett
 died, and I've been enjoying it for much of this afternoon, so this will
