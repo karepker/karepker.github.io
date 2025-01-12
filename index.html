@@ -17,8 +17,8 @@ layout: default
           {%- endif -%}
         </div>
         <div class="post-author-date">
-          {{ post.date | date: '%Y-%m-%d' }} by
-          {% include post_author.html post=post %}
+          {{ post.date | date: '%Y-%m-%d' }}
+          {%- if post.author != null %} by {{ post.author }}{%- endif -%}
         </div>
       </div>
       <div class="post-content">

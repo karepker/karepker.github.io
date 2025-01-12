@@ -12,7 +12,16 @@ layout: default
   {% else %}
     <div class="post-header pad-sides">
   {% endif %}
-  {% include post_header.html page=page %}
+  <div class="post-title-text">
+    <h1 class="post-title">{{- page.title | markdownify -}}</h1>
+    {%- if page.subtitle != null -%}
+      <div class="post-subtitle">{{- page.subtitle | markdownify -}}</div>
+    {%- endif -%}
+    <div class="post-author-date">
+      {{ page.date | date: '%Y-%m-%d' }}
+      {%- if page.author != null %} by {{ page.author }}{%- endif -%}
+    </div>
+  </div>
   </div>
   <div class="post-content pad-sides">{{ content }}</div>
 </div>
