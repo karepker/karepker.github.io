@@ -1,12 +1,4 @@
-{% comment %}
-Generates a plaintext title (no HTML) for a single page. If the page has no
-title, generates nothing.
-
-This is intended to be used in places where HTML elements are not welcome, e.g.
-the title in the head block or the title block for the feed.
-{% endcomment %}
-{% capture page_title %}
-{% include page_title.html page=include.page %}
-{% endcapture %}
-
-{{ page_title | strip_html }}
+{%- capture page_title -%}
+{%- include page_title.html page=include.page -%}
+{%- endcapture -%}
+{{- page_title | strip_html -}}

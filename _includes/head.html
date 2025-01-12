@@ -8,8 +8,7 @@
 
   <title>
     {%- if page.title -%}
-      {%- include plaintext_page_title.html page=page -%}
-	  &middot; {{- site.title -}}
+      {%- include plaintext_page_title.html page=page %} &middot; {{ site.title -}}
     {%- else -%}
       {{- site.title -}}
     {%- endif -%}
