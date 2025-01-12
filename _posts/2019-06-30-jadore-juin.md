@@ -1,5 +1,4 @@
 ---
-layout: post
 title: >-
   "J'adore Juin" as _The Apartment_
 image: /media/jadore_juin/cover.jpg

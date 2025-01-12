@@ -28,3 +28,10 @@ kramdown:
 
 sass:
   style: compressed
+
+defaults:
+  -
+    scope:
+      path: "_posts"
+    values:
+      layout: "post"

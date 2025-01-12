@@ -1,6 +1,5 @@
 ---
 title: Exporting photos from Google Photos and joining them into my local files
-layout: post
 ---
 
 ## Motivation

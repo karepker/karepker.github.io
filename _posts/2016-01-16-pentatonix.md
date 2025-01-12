@@ -1,5 +1,4 @@
 ---
-layout: post
 title: _Pentatonix_ review
 subtitle: Pentatonix goes pop
 image: /media/pentatonix/cover.jpg

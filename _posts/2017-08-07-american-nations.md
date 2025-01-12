@@ -1,5 +1,4 @@
 ---
-layout: post
 title: This Ain't Your Professor's History
 subtitle: A review of _American Nations_ by comparison with _Albion's Seed_
 image: /media/american_nations/cover.png

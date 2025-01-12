@@ -1,6 +1,5 @@
 ---
 title: Configuring my MX Master 2S mouse acceleration directly on the X window manager
-layout: post
 ---
 
 Recently, I switched to using a window manager without a desktop environment so have had to learn to re-configure some parts of my system directly through X that I was previously doing through the desktop environment.
