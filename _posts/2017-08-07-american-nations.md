@@ -57,6 +57,8 @@ due to his thorough research and incisive prose. Woodard's work could not be
 farther from this; it is intellectually dishonest and upsetting to read: polemic
 demagoguery in a cultural history's clothing.
 
+<!--more-->
+
 ![A map of the America's ethnoregional nations according to Colin
 Woodard][woodard_nations_map]
 

@@ -7,6 +7,8 @@ Recently, I switched to using a window manager without a desktop environment so 
 
 One case where I've had to do this is setting my mouse pointer acceleration.
 
+<!--more-->
+
 My understanding of how this all works is that when I was using a desktop environment (most recently, KDE), I could configure my mouse acceleration through KDE settings, which would then pass them through to the X window manager (or Wayland).
 
 Not using a desktop environment means that instead I have to configure settings directly in X, which is more direct though a bit less obvious.

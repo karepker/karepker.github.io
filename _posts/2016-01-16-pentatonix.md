@@ -26,6 +26,8 @@ including those from the [New York Times][nytimes_review] and [Rolling
 Stone][rolling_stone_review] have hinted at this aspect of _Pentatonix_, I'd
 like to take some time to really argue and explore this in depth.
 
+<!--more-->
+
 I'm not going to define pop theoretically, but I consider pop essentially to be
 some "average" of the music and production techniques used in top 40 music in
 the last five years. I don't want to give a theoretical definition of pop

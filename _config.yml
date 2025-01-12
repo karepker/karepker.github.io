@@ -1,6 +1,8 @@
 # Permalinks
 permalink: /:title/
 
+excerpt_separator: <!--more-->
+
 plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from

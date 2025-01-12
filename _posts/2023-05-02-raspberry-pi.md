@@ -1,7 +1,6 @@
 ---
 title: Remote unlocking a Raspberry Pi running Arch Linux with an encrypted root drive
 layout: post
-excerpt_separator: <!--more-->
 ---
 
 ## Background

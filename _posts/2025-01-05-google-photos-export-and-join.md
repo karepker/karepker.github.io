@@ -13,6 +13,8 @@ I was left in an interesting predicament, where recently I've offloaded all my p
 
 I used these steps to export and join my photos exported from Google Photos to my local collection.
 
+<!--more-->
+
 I ran these steps on my Linux system, and I haven't checked, but I'm likely relying on some GNU-specific commands or options.
 
 ## Steps

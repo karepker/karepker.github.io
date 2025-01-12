@@ -41,6 +41,8 @@ Apartment_, one that eclipses its source material by capturing an emotional
 narrative better than _The Apartment_, but one that also realizes an independent
 standard of beauty.
 
+<!--more-->
+
 To call "J'adore Juin" a critical response likely is not in line with the modern
 conception of criticism. The American public's exposure to criticism today
 usually fits neatly into a weekly column written by someone that a publication
