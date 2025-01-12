@@ -1,13 +1,5 @@
 <div class="post-title-text">
-  <h1 class="post-title">
-    {%- if include.inline -%}
-      <a href="{{ site.baseurl }}{{ include.page.url }}">
-    {%- endif include.inline -%}
-      {{- include.page.title | markdownify -}}
-    {%- if include.inline -%}
-      </a>
-    {%- endif include.inline -%}
-  </h1>
+  <h1 class="post-title">{{- include.page.title | markdownify -}}</h1>
   {%- if include.page.subtitle != null -%}
     <div class="post-subtitle">{{- include.page.subtitle | markdownify -}}</div>
   {%- endif -%}
