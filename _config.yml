@@ -25,6 +25,8 @@ exclude:
 kramdown:
   input: GFM
   hard_wrap: false
+  # Only generate IDs when they are explicitly specified.
+  auto_ids: false
 
 sass:
   style: compressed
