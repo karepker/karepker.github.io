@@ -1,7 +1,7 @@
 ---
 title: This Ain't Your Professor's History
 subtitle: A review of _American Nations_ by comparison with _Albion's Seed_
-image: /media/american_nations/cover.png
+image: https://media.karepker.com/file/karepker-com/american-nations/cover.png
 image_title: "The covers of American Nations and Albion's Seed."
 description: "A review of Colin Woodard's book _American Nations_, released
 2011."
@@ -790,8 +790,8 @@ indicators and primary sources would help here.
 [darrett_rutman]: https://www.jstor.org/stable/2164202
 [igm_school_vouchers]: http://www.igmchicago.org/surveys/school-vouchers
 [jonathan_steplyk]: http://personal.tcu.edu/swoodworth/Fischer.htm
-[sfpl_albions_seed]: /media/american_nations/sfpl_albions_seed_availability.png
-[sfpl_american_nations]: /media/american_nations/sfpl_american_nations_availability.png
+[sfpl_albions_seed]: https://media.karepker.com/file/karepker-com/american-nations/sfpl-albions-seed-availability.png
+[sfpl_american_nations]: https://media.karepker.com/file/karepker-com/american-nations/sfpl-american-nations-availability.png
 [ssc_outgroup]: http://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/
 [wiki_bacons_rebellion]: https://en.wikipedia.org/wiki/Bacon%27s_Rebellion
 [wiki_texas_revolution]: https://en.wikipedia.org/wiki/Texas_Revolution

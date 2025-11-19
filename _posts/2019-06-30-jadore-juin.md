@@ -1,7 +1,7 @@
 ---
 title: >-
   "J'adore Juin" as _The Apartment_
-image: /media/jadore_juin/cover.jpg
+image: https://media.karepker.com/file/karepker-com/jadore-juin/cover.jpg
 image_title: >-
   A frame from &quot;J'Adore Juin&quot;.
 description: >-
@@ -144,7 +144,7 @@ In "J'adore Juin":
    an atmosphere of melancholy[^send-in-the-clowns].
 
    [![A commenter expresses an emotional reaction to the harp
-   line.](/media/jadore_juin/harp.png)][harp comment]
+   line.](https://media.karepker.com/file/karepker-com/jadore-juin/harp.png)][harp comment]
 
    The editing adds a loneliness element: Baxter sits at the bar alone, Baxter
    works alone, Baxter walks out of his apartment at night in the cold, Baxter
@@ -329,7 +329,7 @@ the fact that it appears on Pogo's channel, there are other video edits of
     beginning and in the end, hopefully it's going to come right …"
 
     [![Pogo explains the origin of the harp
-    line](/media/jadore_juin/send_in_the_clowns.png)][harp origin comment]
+    line](https://media.karepker.com/file/karepker-com/jadore-juin/send-in-the-clowns.png)][harp origin comment]
 
 [Alice]: https://www.youtube.com/watch?v=pAwR6w2TgxY
 [J'adore Juin]: https://www.youtube.com/watch?v=xyU5g5sIg4g

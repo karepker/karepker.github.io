@@ -1,7 +1,7 @@
 ---
 title: _Pentatonix_ review
 subtitle: Pentatonix goes pop
-image: /media/pentatonix/cover.jpg
+image: https://media.karepker.com/file/karepker-com/pentatonix/cover.jpg
 image_title: "Pentatonix album cover"
 description: "A review of Pentatonix's self-titled album, released 2015-10-16."
 tags:
