@@ -37,3 +37,4 @@ defaults:
       path: "_posts"
     values:
       layout: "post"
+      front_page: true

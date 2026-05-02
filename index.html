@@ -4,6 +4,9 @@ layout: default
 
 <div class="posts pad-sides">
   {%- for post in site.posts -%}
+    {%- unless post.front_page -%}
+      {%- continue -%}
+    {%- endunless-%}
     <div class="post">
       <div class="post-title-text">
         <h2 class="post-title">
