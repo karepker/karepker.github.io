@@ -1,12 +1,8 @@
 ---
-title: >-
-  "J'adore Juin" as _The Apartment_
+title: "“J'adore Juin” as _The Apartment_"
 image: https://media.karepker.com/file/karepker-com/jadore-juin/cover.jpg
-image_title: >-
-  A frame from &quot;J'Adore Juin&quot;.
-description: >-
-  A comparison of "J'adore Juin" and the 1960 film _The Apartment_ through the
-  lens of Oscar Wilde.
+image_title: "A frame from “J'Adore Juin”."
+description: "A comparison of “J'adore Juin” and the 1960 film _The Apartment_ through the lens of Oscar Wilde."
 tags:
   - criticism
   - book

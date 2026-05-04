@@ -3,8 +3,7 @@ title: This Ain't Your Professor's History
 subtitle: A review of _American Nations_ by comparison with _Albion's Seed_
 image: https://media.karepker.com/file/karepker-com/american-nations/cover.png
 image_title: "The covers of American Nations and Albion's Seed."
-description: "A review of Colin Woodard's book _American Nations_, released
-2011."
+description: "A review of Colin Woodard's book _American Nations_, released 2011."
 tags:
   - criticism
   - book

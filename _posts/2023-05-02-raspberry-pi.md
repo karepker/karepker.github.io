@@ -44,7 +44,9 @@ The instructions in [this tutorial][Polaire], which in turn rely on the [officia
 * Use a larger partition size for the boot partition. I initially used 200M and ran out of space and had to start over. 500M should be plenty.
 * For the root partition, set up a LUKS volume in this way (from [this other tutorial][gea0]). Setting up LUKS in the default way uses the argon2i algorithm / encryption scheme, which the Raspberry Pi does not have enough memory to run (see [this StackOverflow post][argon2i].
 
-  ``` # cryptsetup luksFormat -c aes-xts-plain64 -s 512 -h sha512 --use-random -i 1000 /dev/sdXn ```
+  ```
+  # cryptsetup luksFormat -c aes-xts-plain64 -s 512 -h sha512 --use-random -i 1000 /dev/sdXn
+  ```
 
   Replace `/dev/sdXn` with the appropriate device and partition.
 
@@ -175,11 +177,15 @@ I followed [this tutorial][Fernando Cejas], with a few changes:
 
 * Modules in `mkinitcpio` need to be different for the Raspberry Pi. Using the list from [this tutorial][gea0]:
 
-  ``` MODULES=(g_cdc usb_f_acm usb_f_ecm smsc95xx g_ether) ```
+  ```
+  MODULES=(g_cdc usb_f_acm usb_f_ecm smsc95xx g_ether)
+  ```
 
 * SSH keys must be copied manually over to root:
 
-  ``` # cp ~/.ssh/authorized_keys /root/.ssh ```
+  ```
+  # cp ~/.ssh/authorized_keys /root/.ssh
+  ```
 
 ## Tips and Tricks {#tips-and-tricks}
 
@@ -207,7 +213,9 @@ Why did this project take tens of hours? Because I routinely messed stuff up. He
 * Used the kernel parameter configuration for the `encrypt` hook in the boot configuration instead of the `sd-encrypt` parameters (`rd.luks.name`).
 * By default, LUKS uses an encryption algorithm that [requires too much memory][argon2i]. Change it to use a less memory intensive algorithm as suggested in that link. I overwrote the key with:
 
-  ``` # cryptsetup luksChangeKey -S 0 --pdkdf pbkdf2 /dev/sdXn ```
+  ```
+  # cryptsetup luksChangeKey -S 0 --pdkdf pbkdf2 /dev/sdXn
+  ```
 
   This issue is essentially impossible to debug when using the `sd-encrypt` `mkinitcpio` hook, because it logs the details into the journal, which cannot be accessed without decrypting the root filesystem. Even the emergency shell that appears also does not work to access the logs. In fact, I couldn't even get to the emergency shell: I kept getting a message saying that the root account was locked. In this case, the `encrypt` `mkinitcpio` hook is actually better because it logs directly to the output. The message it gave me helped me figure out that I needed to switch the encryption algorithm on my encrypted root partition.
 
