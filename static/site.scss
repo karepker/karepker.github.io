@@ -254,13 +254,14 @@ tbody tr:nth-child(odd) th {
 .masthead-links {
   margin: 0;
   padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 0.25em;
 
-  li {
-  display: inline;
-
-    + li:before {
-      content: "·";
-    }
+  li + li::before {
+    content: "·";
+    margin-right: 0.25em;
   }
 }
 
@@ -271,9 +272,6 @@ tbody tr:nth-child(odd) th {
   .masthead-title small {
     display: none;
   }
-  .masthead-links {
-    display: block;
-  }
 }
 @media (min-width: 48em) {
   .masthead {
@@ -281,9 +279,6 @@ tbody tr:nth-child(odd) th {
     justify-content: space-between;
   }
   .masthead-title {
-    display: inline-block;
-  }
-  .masthead-links {
     display: inline-block;
   }
 }
