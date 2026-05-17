@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>Exporting photos from Google Photos and joining them into my local files &middot; Kar Epker</title>
+
+  <link rel="stylesheet" href="/static/syntax.css">
+  <link rel="stylesheet" href="/static/site.css">
+
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static/apple-touch-icon-144-precomposed.png">
+
+  <link rel="alternate" type="application/atom+xml" title="Feed" href="/feed.xml">
+
+<meta property="og:title" content="Exporting photos from Google Photos and joining them into my local files">
+<meta name="author" content="Kar Epker">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://karepker.com/google-photos-export-and-join/">
+<meta property="og:url" content="https://karepker.com/google-photos-export-and-join/">
+<meta property="og:site_name" content="Kar Epker">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2025-01-05T00:00:00-08:00">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Exporting photos from Google Photos and joining them into my local files">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Kar Epker","url":"https://karepker.com"},"dateModified":"2025-01-05T00:00:00-08:00","datePublished":"2025-01-05T00:00:00-08:00","headline":"Exporting photos from Google Photos and joining them into my local files","mainEntityOfPage":{"@id":"https://karepker.com/google-photos-export-and-join/","@type":"WebPage"},"url":"https://karepker.com/google-photos-export-and-join/"}</script>
+</head>
+  <body>
+    <div class="masthead pad-sides">
+  <p class="masthead-title">
+    <a href="/" title="Home">Kar Epker</a>
+  </p>
+  <div class="vertically-center">
+    <ul class="masthead-links"><li><a href="/about/">About</a></li><li><a href="/projects/">Projects</a></li><li><a href="/recommendations/">Recommendations</a></li></ul>
+  </div>
+</div>
+<div class="post">
+  <div class="post-header pad-sides">
+  <div class="post-title-text">
+    <h1 class="post-title">Exporting photos from Google Photos and joining them into my local files</h1>
+    <div class="post-author-date">2025-01-05</div>
+  </div>
+  </div>
+  <div class="post-content pad-sides"><h2>Motivation</h2>
+<p>I've used Google Photos to back up my photos for as long as it's existed, in fact, before, since I used its predecessor, Picasa, including its Web Albums feature.</p>
+<p>Recently, I've become more interested in keeping and managing my files locally, partially because I've gotten close to the size limits of my Google account and do not want to pay for storage, but largely because I've been using a non-phone camera recently that does not automatically back up, and it's annoying to keep photos and albums in sync across two different locations.</p>
+<p>I was left in an interesting predicament, where recently I've offloaded all my photos onto my computer (while leaving backup to Google Photos on), but also had many photos on Google Photos that were not backed up on my computer.</p>
+<p>I used these steps to export and join my photos exported from Google Photos to my local collection.</p>
+<!--more-->
+<p>I ran these steps on my Linux system, and I haven't checked, but I'm likely relying on some GNU-specific commands or options.</p>
+<h2>Steps</h2>
+<ol>
+<li>Export photos from Google Photos. This can be done with Google Takeout. It gives you a couple options for export. I chose <code>.tar.gz</code> (tarball) export format because it allows bigger download sizes. This step will take the longest in terms of wall time depending on the size of your photos library.</li>
+<li>Untar the archive with <code>tar xvzf &lt;exported tarball&gt;</code>.</li>
+<li><p>Move all the exported photos into a single directory</p>
+<p> <code>console
+ $ find Takeout/Google\ Photos -type f -not -name "*.json" -exec mv -n -t google_photos {} +
+ </code></p>
+<p> I'm excluding the <code>json</code> metadata included with the Google Photos export. Much of the information in it is already in the image exif tags. There's more in the <code>json</code> file that is Google Photos-specific, like the people identified in the photo, but I didn't think it was worth the time to process and figure out how to add this to an appropriate file attribute.</p>
+<p> The <code>-n</code> flag in the <code>mv</code> command says not to overwrite files. The way Google Photos exports will include a separate directory for each album for each album selected in the export process (I left them all selected). This means that there will be a lot of duplicate files. Adding the <code>-n</code> flag means that <code>mv</code> will not throw an error every time it tries to overwrite a file with its duplicate and will instead leave the duplicates in place.</p>
+<p> Once the <code>find</code> command is complete, the duplicates can be discarded.</p></li>
+<li><p>Set difference the Google Photos export with captured photos and remove duplicates.</p>
+<p> Get list of files from both relevant directories. The command below shows how I did this for Google Photos.</p>
+<p> <code>console
+ $ find google_photos -type f -printf "%f\n" | sort &gt; /tmp/google_photos.txt
+ </code></p>
+<p> Delete the ones that appear in both files from the Google Photos exported collection.</p>
+<p> <code>console
+ $ comm -12 /tmp/google_photos.txt /tmp/internal.txt | xargs -I{} rm google_photos/{}
+ </code></p>
+<p> <code>-12</code> suppresses columns 1 and 2 (the files that appear in only <code>file1</code> and <code>file2</code>), and thus only prints the files that appear in both (column 3). We then remove these from the Google Photos directory.</p></li>
+</ol></div>
+</div>
+    <div class="footer pad-sides">
+  <div class="footer-item license">
+    <div class="vertically-center">
+      <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">
+        <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"/>
+      </a>
+    </div>
+    <div class="license-text">
+      Unless otherwise noted, content on this site is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+    </div>
+  </div>
+  <div class="footer-item vertically-center">
+    <a class="feed" href="/feed.xml">
+      <img src="/static/feed-icon.png"/>
+    </a>
+  </div>
+</div>
+  </body>
+</html>

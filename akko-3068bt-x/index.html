@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>Configuring my AKKO 3068BT keyboard directly on the X window manager &middot; Kar Epker</title>
+
+  <link rel="stylesheet" href="/static/syntax.css">
+  <link rel="stylesheet" href="/static/site.css">
+
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static/apple-touch-icon-144-precomposed.png">
+
+  <link rel="alternate" type="application/atom+xml" title="Feed" href="/feed.xml">
+
+<meta property="og:title" content="Configuring my AKKO 3068BT keyboard directly on the X window manager">
+<meta name="author" content="Kar Epker">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://karepker.com/akko-3068bt-x/">
+<meta property="og:url" content="https://karepker.com/akko-3068bt-x/">
+<meta property="og:site_name" content="Kar Epker">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-11-21T00:00:00-08:00">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Configuring my AKKO 3068BT keyboard directly on the X window manager">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Kar Epker","url":"https://karepker.com"},"dateModified":"2024-11-21T00:00:00-08:00","datePublished":"2024-11-21T00:00:00-08:00","headline":"Configuring my AKKO 3068BT keyboard directly on the X window manager","mainEntityOfPage":{"@id":"https://karepker.com/akko-3068bt-x/","@type":"WebPage"},"url":"https://karepker.com/akko-3068bt-x/"}</script>
+</head>
+  <body>
+    <div class="masthead pad-sides">
+  <p class="masthead-title">
+    <a href="/" title="Home">Kar Epker</a>
+  </p>
+  <div class="vertically-center">
+    <ul class="masthead-links"><li><a href="/about/">About</a></li><li><a href="/projects/">Projects</a></li><li><a href="/recommendations/">Recommendations</a></li></ul>
+  </div>
+</div>
+<div class="post">
+  <div class="post-header pad-sides">
+  <div class="post-title-text">
+    <h1 class="post-title">Configuring my AKKO 3068BT keyboard directly on the X window manager</h1>
+    <div class="post-author-date">2024-11-21</div>
+  </div>
+  </div>
+  <div class="post-content pad-sides"><p>For reasons described in <a href="/mx-master-2s-x/">my previous post</a>, I now have to configure keyboard settings directly through X.</p>
+<!--more-->
+<p>Much of this follows the same steps as outlined there regarding finding the device ID of the keyboard and properties by which to match it. For the keyboard, instead of wanting to change acceleration, I wanted to make caps lock an escape key, so I set <code>caps:escape</code>.</p>
+<pre><code class="language-console">$ cat /etc/X11/xorg.conf.d/99-akko-keyboard.conf
+Section "InputClass"
+  Identifier "AKKO 3068BT Keyboard"
+  MatchIsKeyboard "on"
+  MatchProduct "AKKO 3068BT"
+  Option "XkbOptions" "caps:escape"
+EndSection</code></pre>
+<p>The other modification I want to make is swapping escape with tilde/backtick. My 68 key AKKO keyboard has the escape key in place of the tilde/backtick key, but since I've assigned caps lock to escape, I want the tilde/backtick key back in the normal place.</p>
+<p>Unfortunately, this is weird enough that there is no keyboard option for this. I found a solution with <code>xmodmap</code>.</p>
+<pre><code class="language-console">$ cat ~/.Xmodmap
+! Reassign "Esc" to grave/asciitilde.
+keycode   9 = grave asciitilde grave asciitilde
+! We don't care about the assigning grave/asciitilde back to Esc.</code></pre>
+<p>This is then loaded through the following snippet of my <code>xinitrc</code>:</p>
+<pre><code class="language-shell">usermodmap=$HOME/.Xmodmap
+# ...
+if [ -f "$usermodmap" ]; then
+    xmodmap "$usermodmap"
+fi</code></pre>
+<p>This setup unfortunately has several downsides:</p>
+<ul>
+<li>This configuration is lost if I unplug the keyboard and I have to re-run <code>xmodmap ~/.Xmodmap</code>. It also requires that I run <code>startx</code> manually from a TTY; it did not work when I logged in via SDDM, my previous display manager. I currently do this each time I log in and no longer run a display manager.</li>
+<li>This requires that I have X running to work. If I were just to use the keyboard in a TTY, neither of my tweaks would apply.</li>
+<li>This configuration is machine-local: I would not get the same settings if I were to plug my keyboard into another machine.</li>
+</ul>
+<p>Really what I want is to be able to set functions of keys via the firmware, so everything is local to the keyboard. This is something that I'll look for in future keyboards.</p></div>
+</div>
+    <div class="footer pad-sides">
+  <div class="footer-item license">
+    <div class="vertically-center">
+      <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">
+        <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"/>
+      </a>
+    </div>
+    <div class="license-text">
+      Unless otherwise noted, content on this site is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+    </div>
+  </div>
+  <div class="footer-item vertically-center">
+    <a class="feed" href="/feed.xml">
+      <img src="/static/feed-icon.png"/>
+    </a>
+  </div>
+</div>
+  </body>
+</html>

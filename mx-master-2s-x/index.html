@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>Configuring my MX Master 2S mouse acceleration directly on the X window manager &middot; Kar Epker</title>
+
+  <link rel="stylesheet" href="/static/syntax.css">
+  <link rel="stylesheet" href="/static/site.css">
+
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static/apple-touch-icon-144-precomposed.png">
+
+  <link rel="alternate" type="application/atom+xml" title="Feed" href="/feed.xml">
+
+<meta property="og:title" content="Configuring my MX Master 2S mouse acceleration directly on the X window manager">
+<meta name="author" content="Kar Epker">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://karepker.com/mx-master-2s-x/">
+<meta property="og:url" content="https://karepker.com/mx-master-2s-x/">
+<meta property="og:site_name" content="Kar Epker">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-11-20T00:00:00-08:00">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Configuring my MX Master 2S mouse acceleration directly on the X window manager">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Kar Epker","url":"https://karepker.com"},"dateModified":"2024-11-20T00:00:00-08:00","datePublished":"2024-11-20T00:00:00-08:00","headline":"Configuring my MX Master 2S mouse acceleration directly on the X window manager","mainEntityOfPage":{"@id":"https://karepker.com/mx-master-2s-x/","@type":"WebPage"},"url":"https://karepker.com/mx-master-2s-x/"}</script>
+</head>
+  <body>
+    <div class="masthead pad-sides">
+  <p class="masthead-title">
+    <a href="/" title="Home">Kar Epker</a>
+  </p>
+  <div class="vertically-center">
+    <ul class="masthead-links"><li><a href="/about/">About</a></li><li><a href="/projects/">Projects</a></li><li><a href="/recommendations/">Recommendations</a></li></ul>
+  </div>
+</div>
+<div class="post">
+  <div class="post-header pad-sides">
+  <div class="post-title-text">
+    <h1 class="post-title">Configuring my MX Master 2S mouse acceleration directly on the X window manager</h1>
+    <div class="post-author-date">2024-11-20</div>
+  </div>
+  </div>
+  <div class="post-content pad-sides"><p>Recently, I switched to using a window manager without a desktop environment so have had to learn to re-configure some parts of my system directly through X that I was previously doing through the desktop environment.</p>
+<p>One case where I've had to do this is setting my mouse pointer acceleration.</p>
+<!--more-->
+<p>My understanding of how this all works is that when I was using a desktop environment (most recently, KDE), I could configure my mouse acceleration through KDE settings, which would then pass them through to the X window manager (or Wayland).</p>
+<p>Not using a desktop environment means that instead I have to configure settings directly in X, which is more direct though a bit less obvious.</p>
+<p>The <a href="https://wiki.archlinux.org/title/Mouse_acceleration">Arch Linux wiki</a> is helpful here, as always, but I'm recording the steps I used to give a little more detail in a specific case:</p>
+<ol>
+<li>Install <code>xorg-xinput</code>.</li>
+<li><p>Find the device ID of the mouse via <code>xinput</code>. It will give an output that looks like:</p>
+<p> <code>console
+ $ xinput
+ ⎡ Virtual core pointer                          id=2    [master pointer  (3)]
+ ⎜   ↳ Virtual core XTEST pointer                id=4    [slave  pointer  (2)]
+ ⎜   ↳ Logitech K800                             id=12   [slave  pointer  (2)]
+ ⎜   ↳ Logitech MX Master 2S                     id=14   [slave  pointer  (2)]
+ ⎜   ↳ AKKO AKKO 3068BT Keyboard                 id=10   [slave  pointer  (2)]
+ ⎣ Virtual core keyboard                         id=3    [master keyboard (2)]
+     ↳ Virtual core XTEST keyboard               id=5    [slave  keyboard (3)]
+     ↳ AKKO AKKO 3068BT Wireless Radio Control   id=8    [slave  keyboard (3)]
+     ↳ Logitech K800                             id=13   [slave  keyboard (3)]
+     ↳ Logitech MX Master 2S                     id=15   [slave keyboard (3)]
+     ↳ AKKO AKKO 3068BT                          id=9    [slave keyboard (3)]
+     ↳ Power Button                              id=7    [slave  keyboard (3)]
+     ↳ AKKO AKKO 3068BT Keyboard                 id=11   [slave  keyboard (3)]
+     ↳ Power Button                              id=6    [slave  keyboard (3)]
+ </code></p>
+<p> I'm using an MX Master 2S, so that's device ID 14.</p>
+<p> Side note: Why is it not device ID 15? I'm not sure, but <code>pointer</code> seems like a better match than <code>keyboard</code>, and I'm not sure why it shows up in that section. Perhaps some functions of the MX Master 2S better match keyboard functions.</p>
+<p> This appears to change between boots (or probably restarts of X).</p></li>
+<li><p>List the properties available for the mouse.</p>
+<p> <code>console
+ # xinput list-props 14 | grep 'Accel Speed'
+ libinput Accel Speed (298):     -0.700000
+ libinput Accel Speed Default (299):     0.000000
+ </code></p>
+<p> We care about <code>Accel Speed (298)</code></p>
+<p> There's no action that needs to be taken here or anything to remember, we're just confirming that acceleration can be set for this device.</p></li>
+<li><p>Test acceleration speeds</p>
+<p> <code>console
+ # xinput set-prop 14 "libinput Accel Speed" &lt;speed&gt;
+ </code></p>
+<p> Find one that works well.</p></li>
+<li><p>Write a configuration file to persist this setting. Mine has owner and group <code>root</code> and permissions 644.</p>
+<p> <code>console
+ $ cat /etc/X11/xorg.conf.d/99-mx-master-2s.conf
+ Section "InputClass"
+   Identifier "MX Master 2S"
+   MatchIsPointer "on"
+   # Do not MatchProduct because the product is UnifyingReceiver.
+   MatchVendor "Logitech"
+   # https://wiki.archlinux.org/title/Mouse_acceleration#Persistent_configuration
+   Option "AccelSpeed" "-0.7"
+ EndSection
+ </code></p>
+<p> The hard part about this is actually matching the mouse. Device IDs cannot be used here because they are not persistent. Instead, X provides an extremely fiddly way of matching devices via various properties that are hard to discover.</p>
+<p> The <code>Match</code> options are documented <a href="https://www.x.org/archive/X11R7.6/doc/man/man5/xorg.conf.5.xhtml#heading9">on the X.org website</a>.</p>
+<p> I used the follow query to find the properties for matching:</p>
+<ol>
+<li><p>Find the device node:</p>
+<p> <code>console
+ # xinput list-props 14 | grep 'Device Node'
+         Device Node (271):      "/dev/input/event6"
+ </code></p></li>
+<li><p>List the associated properties:</p>
+<p> <code>console
+ $ udevadm info --query=property --name=/dev/input/event6
+ ...
+ ID_VENDOR=Logitech
+ ...
+ </code></p>
+<p> Apparently when I first created this configuration, I found a <code>Product</code> property that was <code>UnifyingReceiver</code>. Now, I don't remember which command had that as output and don't see it.</p></li>
+</ol></li>
+</ol></div>
+</div>
+    <div class="footer pad-sides">
+  <div class="footer-item license">
+    <div class="vertically-center">
+      <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">
+        <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"/>
+      </a>
+    </div>
+    <div class="license-text">
+      Unless otherwise noted, content on this site is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+    </div>
+  </div>
+  <div class="footer-item vertically-center">
+    <a class="feed" href="/feed.xml">
+      <img src="/static/feed-icon.png"/>
+    </a>
+  </div>
+</div>
+  </body>
+</html>
