@@ -1,9 +1,0 @@
-{%- if include.page.title -%}
-{%- capture page_title -%}
-{{- include.page.title -}}
-{%- if include.page.subtitle -%}
-: {{ include.page.subtitle -}}
-{%- endif -%}
-{%- endcapture -%}
-{{- page_title | markdownify | strip -}}
-{%- endif -%}
