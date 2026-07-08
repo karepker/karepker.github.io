@@ -60,6 +60,18 @@ Run from the repo root.
 - `replace_media_with_cdn.sh FILE` — rewrites `/media/...` references in a post
   to `https://media.karepker.com/file/karepker-com/...` (CDN).
 
+## Previewing locally
+
+To see changes rendered before deploying to GitHub Pages:
+
+1. `bash _util/build.sh` to build into `_site/`.
+2. `./_util/deploy_local.sh` to push the build to the private host.
+3. Open the build in a browser at the URL in `PREVIEW_URL` (in the gitignored
+   `_util/deploy_local.env`); a post lives at `<PREVIEW_URL>/<slug>/`.
+
+Editing `static/site.scss` requires a rebuild + redeploy to take effect, since
+it is compiled to `_site/static/site.css` at build time (not served live).
+
 ## Conventions
 
 - End the first sentence of commit messages with a period.
