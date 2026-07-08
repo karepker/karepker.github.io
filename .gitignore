@@ -2,3 +2,4 @@ _site
 _drafts/
 _reference/
 media/
+_util/deploy_local.env

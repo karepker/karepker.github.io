@@ -49,6 +49,10 @@ Run from the repo root.
 - `deploy.sh` — refuses to run with a dirty tree; ensures `_site/` is a
   `gh-pages` worktree, rebuilds, adds `.nojekyll`, commits, and pushes
   `gh-pages` (served by GitHub Pages).
+- `deploy_local.sh` — rsyncs `_site/` to a private host (e.g. a home server). The
+  target host, group, and remote path are read from `_util/deploy_local.env`
+  (gitignored, to keep those details out of the public repo); copy
+  `deploy_local.env.example` to create it.
 - `optimize_images.sh DIR` — resizes JPEGs to max 1200px, strips metadata,
   stamps a JPEG-comment marker so re-runs are idempotent. `-f` forces; a
   `keep-original` comment opts an image out entirely.
