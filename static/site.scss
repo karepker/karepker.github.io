@@ -408,6 +408,16 @@ tbody tr:nth-child(odd) th {
   object-fit: contain
 }
 
+/* Figures with captions. */
+.post-content figure {
+  margin: 1rem 0;
+}
+.post-content figcaption {
+  margin-top: 0.5rem;
+  text-align: center;
+  color: $secondary-text-color;
+}
+
 
 /* Related posts */
 .related {
